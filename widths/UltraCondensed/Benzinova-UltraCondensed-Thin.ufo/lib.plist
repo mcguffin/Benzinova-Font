@@ -1289,6 +1289,22 @@
 		<string>seven.sup</string>
 		<string>eight.sup</string>
 		<string>nine.sup</string>
+		<string>twothirds</string>
+		<string>onethird</string>
+		<string>zerothirds</string>
+		<string>oneeight</string>
+		<string>twofifths</string>
+		<string>seveneighths</string>
+		<string>threefifths</string>
+		<string>threeeighths</string>
+		<string>onesixth</string>
+		<string>onenineth</string>
+		<string>fiveeighths</string>
+		<string>onetenth</string>
+		<string>oneseventh</string>
+		<string>fivesixths</string>
+		<string>fourfifths</string>
+		<string>onefifth</string>
 	</array>
 </dict>
 </plist>
