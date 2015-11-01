@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="384.0"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="308" y="-32" type="line"/>
+      <point x="316" y="-32"/>
+      <point x="324" y="-24"/>
+      <point x="324" y="-16" type="curve" smooth="yes"/>
+      <point x="324" y="-8"/>
+      <point x="316" y="0"/>
+      <point x="308" y="0" type="curve" smooth="yes"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="1200" type="line"/>
+      <point x="308" y="1200" type="line" smooth="yes"/>
+      <point x="316" y="1200"/>
+      <point x="324" y="1208"/>
+      <point x="324" y="1216" type="curve" smooth="yes"/>
+      <point x="324" y="1224"/>
+      <point x="316" y="1232"/>
+      <point x="308" y="1232" type="curve" smooth="yes"/>
+      <point x="96" y="1232" type="line" smooth="yes"/>
+      <point x="88" y="1232"/>
+      <point x="80" y="1224"/>
+      <point x="80" y="1216" type="curve" smooth="yes"/>
+      <point x="80" y="-16" type="line" smooth="yes"/>
+      <point x="80" y="-24"/>
+      <point x="88" y="-32"/>
+      <point x="96" y="-32" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Scaffold</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>384.0</real>
+        </dict>
+        <key>stock</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>384.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

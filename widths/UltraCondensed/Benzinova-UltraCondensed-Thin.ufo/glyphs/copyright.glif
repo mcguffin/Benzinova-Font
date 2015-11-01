@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="copyright" format="1">
+  <advance width="616.0"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <contour>
+      <point x="416" y="852" type="curve" smooth="yes"/>
+      <point x="416" y="844"/>
+      <point x="424" y="836"/>
+      <point x="432" y="836" type="curve" smooth="yes"/>
+      <point x="440" y="836"/>
+      <point x="448" y="844"/>
+      <point x="448" y="852" type="curve" smooth="yes"/>
+      <point x="448" y="926"/>
+      <point x="384" y="990"/>
+      <point x="310" y="990" type="curve" smooth="yes"/>
+      <point x="234" y="990"/>
+      <point x="170" y="926"/>
+      <point x="170" y="852" type="curve" smooth="yes"/>
+      <point x="170" y="354" type="line" smooth="yes"/>
+      <point x="170" y="278"/>
+      <point x="234" y="214"/>
+      <point x="310" y="214" type="curve" smooth="yes"/>
+      <point x="384" y="214"/>
+      <point x="448" y="278"/>
+      <point x="448" y="354" type="curve" smooth="yes"/>
+      <point x="448" y="362"/>
+      <point x="440" y="370"/>
+      <point x="432" y="370" type="curve" smooth="yes"/>
+      <point x="424" y="370"/>
+      <point x="416" y="362"/>
+      <point x="416" y="354" type="curve" smooth="yes"/>
+      <point x="416" y="294"/>
+      <point x="368" y="246"/>
+      <point x="310" y="246" type="curve" smooth="yes"/>
+      <point x="250" y="246"/>
+      <point x="202" y="294"/>
+      <point x="202" y="354" type="curve" smooth="yes"/>
+      <point x="202" y="852" type="line" smooth="yes"/>
+      <point x="202" y="910"/>
+      <point x="250" y="958"/>
+      <point x="310" y="958" type="curve" smooth="yes"/>
+      <point x="368" y="958"/>
+      <point x="416" y="910"/>
+    </contour>
+    <contour>
+      <point x="308" y="-32" type="curve" smooth="yes"/>
+      <point x="434" y="-32"/>
+      <point x="536" y="70"/>
+      <point x="536" y="196" type="curve" smooth="yes"/>
+      <point x="536" y="1004" type="line" smooth="yes"/>
+      <point x="536" y="1130"/>
+      <point x="434" y="1232"/>
+      <point x="308" y="1232" type="curve" smooth="yes"/>
+      <point x="182" y="1232"/>
+      <point x="80" y="1130"/>
+      <point x="80" y="1004" type="curve" smooth="yes"/>
+      <point x="80" y="196" type="line" smooth="yes"/>
+      <point x="80" y="70"/>
+      <point x="182" y="-32"/>
+    </contour>
+    <contour>
+      <point x="308" y="1200" type="curve" smooth="yes"/>
+      <point x="416" y="1200"/>
+      <point x="504" y="1112"/>
+      <point x="504" y="1004" type="curve" smooth="yes"/>
+      <point x="504" y="196" type="line" smooth="yes"/>
+      <point x="504" y="88"/>
+      <point x="416" y="0"/>
+      <point x="308" y="0" type="curve" smooth="yes"/>
+      <point x="200" y="0"/>
+      <point x="112" y="88"/>
+      <point x="112" y="196" type="curve" smooth="yes"/>
+      <point x="112" y="1004" type="line" smooth="yes"/>
+      <point x="112" y="1112"/>
+      <point x="200" y="1200"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Scaffold</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>copyright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>616.0</real>
+        </dict>
+        <key>stock</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>copyright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>616.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
