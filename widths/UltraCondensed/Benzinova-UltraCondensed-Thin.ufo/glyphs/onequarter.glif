@@ -5,6 +5,7 @@
   <outline>
     <component base="fraction"/>
     <component base="one.sup"/>
+    <component base="four.sup" xOffset="404" yOffset="-647"/>
   </outline>
   <lib>
     <dict>

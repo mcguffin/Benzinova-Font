@@ -476,6 +476,8 @@
 	<string>eight.glif</string>
 	<key>eight.oldstyle</key>
 	<string>eight.oldstyle.glif</string>
+	<key>eight.sub</key>
+	<string>eight.sub.glif</string>
 	<key>eight.sup</key>
 	<string>eight.sup.glif</string>
 	<key>ellipsis</key>
@@ -508,6 +510,8 @@
 	<string>five.glif</string>
 	<key>five.oldstyle</key>
 	<string>five.oldstyle.glif</string>
+	<key>five.sub</key>
+	<string>five.sub.glif</string>
 	<key>five.sup</key>
 	<string>five.sup.glif</string>
 	<key>florin</key>
@@ -516,6 +520,8 @@
 	<string>four.glif</string>
 	<key>four.oldstyle</key>
 	<string>four.oldstyle.glif</string>
+	<key>four.sub</key>
+	<string>four.sub.glif</string>
 	<key>four.sup</key>
 	<string>four.sup.glif</string>
 	<key>fraction</key>
@@ -662,6 +668,8 @@
 	<string>nine.glif</string>
 	<key>nine.oldstyle</key>
 	<string>nine.oldstyle.glif</string>
+	<key>nine.sub</key>
+	<string>nine.sub.glif</string>
 	<key>nine.sup</key>
 	<string>nine.sup.glif</string>
 	<key>notequal</key>
@@ -698,6 +706,8 @@
 	<string>one.glif</string>
 	<key>one.oldstyle</key>
 	<string>one.oldstyle.glif</string>
+	<key>one.sub</key>
+	<string>one.sub.glif</string>
 	<key>one.sup</key>
 	<string>one.sup.glif</string>
 	<key>onehalf</key>
@@ -804,12 +814,16 @@
 	<string>seven.glif</string>
 	<key>seven.oldstyle</key>
 	<string>seven.oldstyle.glif</string>
+	<key>seven.sub</key>
+	<string>seven.sub.glif</string>
 	<key>seven.sup</key>
 	<string>seven.sup.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.oldstyle</key>
 	<string>six.oldstyle.glif</string>
+	<key>six.sub</key>
+	<string>six.sub.glif</string>
 	<key>six.sup</key>
 	<string>six.sup.glif</string>
 	<key>slash</key>
@@ -840,6 +854,8 @@
 	<string>three.glif</string>
 	<key>three.oldstyle</key>
 	<string>three.oldstyle.glif</string>
+	<key>three.sub</key>
+	<string>three.sub.glif</string>
 	<key>three.sup</key>
 	<string>three.sup.glif</string>
 	<key>threequarters</key>
@@ -852,6 +868,8 @@
 	<string>two.glif</string>
 	<key>two.oldstyle</key>
 	<string>two.oldstyle.glif</string>
+	<key>two.sub</key>
+	<string>two.sub.glif</string>
 	<key>two.sup</key>
 	<string>two.sup.glif</string>
 	<key>u</key>
@@ -944,6 +962,8 @@
 	<string>zero.glif</string>
 	<key>zero.oldstyle</key>
 	<string>zero.oldstyle.glif</string>
+	<key>zero.sub</key>
+	<string>zero.sub.glif</string>
 	<key>zero.sup</key>
 	<string>zero.sup.glif</string>
 </dict>

@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onehalf" format="1">
-  <advance width="808"/>
-  <unicode hex="00BD"/>
+<glyph name="one.sub" format="1">
+  <advance width="405"/>
+  <unicode hex="2081"/>
   <outline>
-    <component base="fraction"/>
-    <component base="one.sup"/>
-    <component base="two.sup" xOffset="404" yOffset="-664"/>
+    <component base="one.sup" yOffset="-750.0"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <real>237.0</real>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
-          <key>x</key>
-          <integer>24</integer>
-          <key>y</key>
-          <integer>-6</integer>
-        </dict>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Scaffold</key>
@@ -43,12 +24,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>onehalf</string>
+          <string>one.sub</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>808</integer>
+          <integer>405</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -65,12 +46,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>onehalf</string>
+          <string>one.sub</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>808</integer>
+          <integer>405</integer>
         </dict>
       </dict>
     </dict>
