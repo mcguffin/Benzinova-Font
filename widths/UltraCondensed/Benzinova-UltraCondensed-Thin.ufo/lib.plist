@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>com.typemytype.robofont.Scaffold.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.Scaffold.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.Scaffold.layerShowFill</key>

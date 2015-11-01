@@ -9,20 +9,20 @@
       <point x="114" y="1216"/>
       <point x="104" y="1216" type="curve" smooth="yes"/>
       <point x="94" y="1216"/>
-      <point x="86" y="1210"/>
+      <point x="87" y="1210"/>
       <point x="84" y="1200" type="curve" smooth="yes"/>
       <point x="60" y="1120" type="line"/>
-      <point x="60" y="1118"/>
-      <point x="60" y="1118"/>
-      <point x="60" y="1116" type="curve" smooth="yes"/>
-      <point x="60" y="1108"/>
+      <point x="60" y="1120"/>
+      <point x="59" y="1117"/>
+      <point x="59" y="1116" type="curve" smooth="yes"/>
+      <point x="59" y="1108"/>
       <point x="64" y="1100"/>
       <point x="74" y="1100" type="curve" smooth="yes"/>
       <point x="82" y="1100"/>
       <point x="88" y="1104"/>
       <point x="90" y="1110" type="curve" smooth="yes"/>
       <point x="122" y="1188" type="line" smooth="yes"/>
-      <point x="124" y="1190"/>
+      <point x="123" y="1190"/>
       <point x="124" y="1192"/>
     </contour>
   </outline>
