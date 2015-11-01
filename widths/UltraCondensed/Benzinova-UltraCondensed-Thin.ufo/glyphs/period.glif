@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="1">
-  <advance width="200.0"/>
+  <advance width="200"/>
   <unicode hex="002E"/>
   <outline>
     <contour>
@@ -59,7 +59,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>200.0</real>
+          <integer>200</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -81,7 +81,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>200.0</real>
+          <integer>200</integer>
         </dict>
       </dict>
     </dict>
