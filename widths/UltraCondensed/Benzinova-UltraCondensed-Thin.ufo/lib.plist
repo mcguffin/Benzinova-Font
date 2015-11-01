@@ -38,7 +38,7 @@
 	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
 	<true/>
 	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
@@ -168,9 +168,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>0</integer>
+			<integer>277</integer>
 			<key>y</key>
-			<integer>426</integer>
+			<integer>552</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -268,7 +268,7 @@
 			<key>x</key>
 			<integer>308</integer>
 			<key>y</key>
-			<integer>0</integer>
+			<integer>698</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -588,8 +588,6 @@
 				<string>zcaron</string>
 				<string>longs</string>
 				<string>florin</string>
-				<string>uni021A</string>
-				<string>uni021B</string>
 				<string>circumflex</string>
 				<string>caron</string>
 				<string>breve</string>
@@ -627,7 +625,6 @@
 				<string>Euro</string>
 				<string>trademark</string>
 				<string>Omega</string>
-				<string>estimated</string>
 				<string>partialdiff</string>
 				<string>Delta</string>
 				<string>product</string>
@@ -640,8 +637,6 @@
 				<string>notequal</string>
 				<string>lessequal</string>
 				<string>greaterequal</string>
-				<string>lozenge</string>
-				<string>uniF8FF</string>
 				<string>fdotaccent</string>
 				<string>pdotaccent</string>
 				<string>Kcedilla</string>
@@ -752,6 +747,18 @@
 				<string>Rdotaccent</string>
 				<string>Zasciicircum</string>
 				<string>ytilde</string>
+				<string>seven.sup</string>
+				<string>four.sup</string>
+				<string>six.sup</string>
+				<string>one.sup</string>
+				<string>eight.sup</string>
+				<string>Tcomma</string>
+				<string>zero.sup</string>
+				<string>nine.sup</string>
+				<string>five.sup</string>
+				<string>tcomma</string>
+				<string>three.sup</string>
+				<string>two.sup</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1075,8 +1082,6 @@
 		<string>zcaron</string>
 		<string>longs</string>
 		<string>florin</string>
-		<string>uni021A</string>
-		<string>uni021B</string>
 		<string>circumflex</string>
 		<string>caron</string>
 		<string>breve</string>
@@ -1114,7 +1119,6 @@
 		<string>Euro</string>
 		<string>trademark</string>
 		<string>Omega</string>
-		<string>estimated</string>
 		<string>partialdiff</string>
 		<string>Delta</string>
 		<string>product</string>
@@ -1127,8 +1131,6 @@
 		<string>notequal</string>
 		<string>lessequal</string>
 		<string>greaterequal</string>
-		<string>lozenge</string>
-		<string>uniF8FF</string>
 		<string>fdotaccent</string>
 		<string>pdotaccent</string>
 		<string>Kcedilla</string>
@@ -1239,6 +1241,18 @@
 		<string>Rdotaccent</string>
 		<string>Zasciicircum</string>
 		<string>ytilde</string>
+		<string>seven.sup</string>
+		<string>four.sup</string>
+		<string>six.sup</string>
+		<string>one.sup</string>
+		<string>eight.sup</string>
+		<string>Tcomma</string>
+		<string>zero.sup</string>
+		<string>nine.sup</string>
+		<string>five.sup</string>
+		<string>tcomma</string>
+		<string>three.sup</string>
+		<string>two.sup</string>
 	</array>
 </dict>
 </plist>

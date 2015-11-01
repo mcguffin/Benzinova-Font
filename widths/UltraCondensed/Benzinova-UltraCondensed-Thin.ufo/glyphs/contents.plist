@@ -690,6 +690,10 @@
 	<string>one.glif</string>
 	<key>one.oldstyle</key>
 	<string>one.oldstyle.glif</string>
+	<key>onehalf</key>
+	<string>onehalf.glif</string>
+	<key>onequarter</key>
+	<string>onequarter.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
 	<key>ordfeminine</key>
@@ -822,6 +826,8 @@
 	<string>three.glif</string>
 	<key>three.oldstyle</key>
 	<string>three.oldstyle.glif</string>
+	<key>threequarters</key>
+	<string>threequarters.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>trademark</key>
