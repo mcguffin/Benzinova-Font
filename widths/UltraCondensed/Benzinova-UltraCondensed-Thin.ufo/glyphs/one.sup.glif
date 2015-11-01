@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.sup" format="1">
-  <advance width="616.0"/>
+  <advance width="405"/>
   <outline>
     <contour>
       <point x="97" y="593" type="curve" smooth="yes"/>
@@ -117,7 +117,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>405</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -139,7 +139,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>405</integer>
         </dict>
       </dict>
     </dict>

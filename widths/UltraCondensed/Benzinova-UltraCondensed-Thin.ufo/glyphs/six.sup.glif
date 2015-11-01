@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="six.sup" format="1">
-  <advance width="616.0"/>
+  <advance width="404"/>
   <outline>
     <contour>
       <point x="324" y="706" type="curve" smooth="yes"/>
@@ -267,7 +267,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>404</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -289,7 +289,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>404</integer>
         </dict>
       </dict>
     </dict>
