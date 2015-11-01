@@ -4,11 +4,15 @@ Benzinova Font
 To Do:
 ------
 - [ ] Character Scaffolding
-- [ ] Characters: 
-	- [x] ordfeminine, ordmasculine
-	- [ ] fractions
-	- [ ] Thorn, thorn, eth, kgreenlandic
-	- [ ] Omega, estimated, partialdiff, lozenge
+	- [ ] Uppercase
+	- [ ] Lowercase
+	- [ ] Punctuation
+	- [ ] Figures
+		- [x] Normal
+		- [ ] OldStyle
+		- [x] Figures
+	- [ ] Braces
+	- [ ] Special Chars
 - [ ] Weights
 	- [ ] Thin (100)
 	- [ ] Light (300)

@@ -38,7 +38,7 @@
 	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
 	<true/>
 	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
