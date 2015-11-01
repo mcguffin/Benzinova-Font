@@ -270,6 +270,22 @@
 			<key>y</key>
 			<integer>698</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>showMeasurements</key>
+			<integer>1</integer>
+			<key>x</key>
+			<integer>307</integer>
+			<key>y</key>
+			<integer>426</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
