@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/joern/Documents/Fonts/Benzinova/Thin/Benzinova-Thin-Condensed.otf</string>
+	<string>/Users/joern/Documents/Fonts/Benzinova/otf/Benzinova-UltraCondensed-Thin.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
@@ -528,8 +528,6 @@
 				<string>kgreenlandic</string>
 				<string>Lacute</string>
 				<string>lacute</string>
-				<string>uni013B</string>
-				<string>uni013C</string>
 				<string>Lcaron</string>
 				<string>lcaron</string>
 				<string>Ldot</string>
@@ -594,15 +592,12 @@
 				<string>uni021B</string>
 				<string>circumflex</string>
 				<string>caron</string>
-				<string>uni02C9</string>
 				<string>breve</string>
 				<string>dotaccent</string>
 				<string>ring</string>
 				<string>ogonek</string>
 				<string>tilde</string>
 				<string>hungarumlaut</string>
-				<string>uni03A9</string>
-				<string>uni03BC</string>
 				<string>pi</string>
 				<string>Wgrave</string>
 				<string>wgrave</string>
@@ -676,7 +671,6 @@
 				<string>tdieresis</string>
 				<string>Ucaron</string>
 				<string>hcaron</string>
-				<string>uniF643</string>
 				<string>uni24C5</string>
 				<string>Gacute</string>
 				<string>Wdotaccent</string>
@@ -1021,8 +1015,6 @@
 		<string>kgreenlandic</string>
 		<string>Lacute</string>
 		<string>lacute</string>
-		<string>uni013B</string>
-		<string>uni013C</string>
 		<string>Lcaron</string>
 		<string>lcaron</string>
 		<string>Ldot</string>
@@ -1087,15 +1079,12 @@
 		<string>uni021B</string>
 		<string>circumflex</string>
 		<string>caron</string>
-		<string>uni02C9</string>
 		<string>breve</string>
 		<string>dotaccent</string>
 		<string>ring</string>
 		<string>ogonek</string>
 		<string>tilde</string>
 		<string>hungarumlaut</string>
-		<string>uni03A9</string>
-		<string>uni03BC</string>
 		<string>pi</string>
 		<string>Wgrave</string>
 		<string>wgrave</string>
@@ -1169,7 +1158,6 @@
 		<string>tdieresis</string>
 		<string>Ucaron</string>
 		<string>hcaron</string>
-		<string>uniF643</string>
 		<string>uni24C5</string>
 		<string>Gacute</string>
 		<string>Wdotaccent</string>

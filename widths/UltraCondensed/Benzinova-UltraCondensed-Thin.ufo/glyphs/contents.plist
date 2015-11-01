@@ -188,6 +188,8 @@
 	<string>Ntilde_.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
+	<key>OE</key>
+	<string>OE_.glif</string>
 	<key>Oacute</key>
 	<string>Oacute_.glif</string>
 	<key>Obreve</key>
@@ -250,8 +252,12 @@
 	<string>Tcaron_.glif</string>
 	<key>Tcedilla</key>
 	<string>Tcedilla_.glif</string>
+	<key>Tcomma</key>
+	<string>Tcomma_.glif</string>
 	<key>Tdotaccent</key>
 	<string>Tdotaccent_.glif</string>
+	<key>Thorn</key>
+	<string>Thorn_.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>Uacute</key>
@@ -480,6 +486,8 @@
 	<string>eogonek.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>eth</key>
+	<string>eth.glif</string>
 	<key>etilde</key>
 	<string>etilde.glif</string>
 	<key>exclam</key>
@@ -590,6 +598,8 @@
 	<string>kcaron.glif</string>
 	<key>kcedilla</key>
 	<string>kcedilla.glif</string>
+	<key>kgreenlandic</key>
+	<string>kgreenlandic.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>lacute</key>
@@ -630,6 +640,8 @@
 	<string>n.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>napostrophe</key>
+	<string>napostrophe.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
 	<key>ncedilla</key>
@@ -662,6 +674,8 @@
 	<string>odieresis.glif</string>
 	<key>odotaccent</key>
 	<string>odotaccent.glif</string>
+	<key>oe</key>
+	<string>oe.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
 	<key>ograve</key>
@@ -676,6 +690,10 @@
 	<string>one.oldstyle.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
+	<key>ordfeminine</key>
+	<string>ordfeminine.glif</string>
+	<key>ordmasculine</key>
+	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -690,6 +708,8 @@
 	<string>parenleft.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
+	<key>partialdiff</key>
+	<string>partialdiff.glif</string>
 	<key>pdotaccent</key>
 	<string>pdotaccent.glif</string>
 	<key>percent</key>
@@ -788,10 +808,14 @@
 	<string>tcaron.glif</string>
 	<key>tcedilla</key>
 	<string>tcedilla.glif</string>
+	<key>tcomma</key>
+	<string>tcomma.glif</string>
 	<key>tdieresis</key>
 	<string>tdieresis.glif</string>
 	<key>tdotaccent</key>
 	<string>tdotaccent.glif</string>
+	<key>thorn</key>
+	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three.oldstyle</key>
