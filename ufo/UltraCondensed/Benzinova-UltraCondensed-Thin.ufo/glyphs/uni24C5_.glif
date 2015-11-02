@@ -4,38 +4,6 @@
   <unicode hex="24C5"/>
   <outline>
     <contour>
-      <point x="308" y="-32" type="curve" smooth="yes"/>
-      <point x="434" y="-32"/>
-      <point x="536" y="70"/>
-      <point x="536" y="196" type="curve" smooth="yes"/>
-      <point x="536" y="1004" type="line" smooth="yes"/>
-      <point x="536" y="1130"/>
-      <point x="434" y="1232"/>
-      <point x="308" y="1232" type="curve" smooth="yes"/>
-      <point x="182" y="1232"/>
-      <point x="80" y="1130"/>
-      <point x="80" y="1004" type="curve" smooth="yes"/>
-      <point x="80" y="196" type="line" smooth="yes"/>
-      <point x="80" y="70"/>
-      <point x="182" y="-32"/>
-    </contour>
-    <contour>
-      <point x="308" y="1200" type="curve" smooth="yes"/>
-      <point x="416" y="1200"/>
-      <point x="504" y="1112"/>
-      <point x="504" y="1004" type="curve" smooth="yes"/>
-      <point x="504" y="196" type="line" smooth="yes"/>
-      <point x="504" y="88"/>
-      <point x="416" y="0"/>
-      <point x="308" y="0" type="curve" smooth="yes"/>
-      <point x="200" y="0"/>
-      <point x="112" y="88"/>
-      <point x="112" y="196" type="curve" smooth="yes"/>
-      <point x="112" y="1004" type="line" smooth="yes"/>
-      <point x="112" y="1112"/>
-      <point x="200" y="1200"/>
-    </contour>
-    <contour>
       <point x="310" y="959" type="line"/>
       <point x="368" y="959"/>
       <point x="416" y="911"/>
@@ -69,6 +37,7 @@
       <point x="203" y="246" type="curve"/>
       <point x="203" y="583" type="line"/>
     </contour>
+    <component base="O"/>
   </outline>
   <lib>
     <dict>
