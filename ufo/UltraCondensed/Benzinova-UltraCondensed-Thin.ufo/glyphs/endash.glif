@@ -40,10 +40,8 @@
                 <dict>
                   <key>segmentType</key>
                   <string>move</string>
-                  <key>smooth</key>
-                  <false/>
                   <key>x</key>
-                  <integer>96</integer>
+                  <integer>904</integer>
                   <key>y</key>
                   <integer>426</integer>
                 </dict>
@@ -51,9 +49,9 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <true/>
                   <key>x</key>
-                  <integer>520</integer>
+                  <integer>96</integer>
                   <key>y</key>
                   <integer>426</integer>
                 </dict>

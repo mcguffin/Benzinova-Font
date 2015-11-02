@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcomma" format="1">
-  <advance width="500"/>
+  <advance width="616.0"/>
   <unicode hex="021A"/>
   <outline>
+    <component base="T"/>
+    <component base="comma" xOffset="208" yOffset="-60"/>
   </outline>
   <lib>
     <dict>
@@ -28,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <real>616.0</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -50,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>500</integer>
+          <real>616.0</real>
         </dict>
       </dict>
     </dict>
