@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="1">
+  <advance width="1376.0"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <component base="P"/>
+    <component base="s" xOffset="760"/>
+    <component base="t" xOffset="560"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

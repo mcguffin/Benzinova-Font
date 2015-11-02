@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.oldstyle" format="1">
+  <advance width="616.0"/>
+  <unicode hex="F737"/>
+  <outline>
+    <contour>
+      <point x="308" y="-348" type="curve" smooth="yes"/>
+      <point x="316" y="-348"/>
+      <point x="322" y="-342"/>
+      <point x="324" y="-334" type="curve" smooth="yes"/>
+      <point x="536" y="834" type="line"/>
+      <point x="536" y="842"/>
+      <point x="530" y="852"/>
+      <point x="520" y="852" type="curve" smooth="yes"/>
+      <point x="96" y="852" type="line" smooth="yes"/>
+      <point x="88" y="852"/>
+      <point x="80" y="844"/>
+      <point x="80" y="836" type="curve" smooth="yes"/>
+      <point x="80" y="828"/>
+      <point x="88" y="820"/>
+      <point x="96" y="820" type="curve" smooth="yes"/>
+      <point x="500" y="820" type="line"/>
+      <point x="292" y="-330" type="line"/>
+      <point x="292" y="-332"/>
+      <point x="292" y="-332"/>
+      <point x="292" y="-334" type="curve" smooth="yes"/>
+      <point x="292" y="-340"/>
+      <point x="298" y="-348"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Scaffold</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>96</integer>
+                  <key>y</key>
+                  <integer>836</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>520</integer>
+                  <key>y</key>
+                  <integer>836</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>308</integer>
+                  <key>y</key>
+                  <integer>-332</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven.oldstyle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>616.0</real>
+        </dict>
+        <key>stock</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>seven.oldstyle</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>616.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
