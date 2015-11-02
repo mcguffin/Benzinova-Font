@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.sup" format="1">
   <advance width="404.09500793"/>
+  <unicode hex="2077"/>
   <outline>
     <contour>
       <point x="199" y="584" type="curve" smooth="yes"/>

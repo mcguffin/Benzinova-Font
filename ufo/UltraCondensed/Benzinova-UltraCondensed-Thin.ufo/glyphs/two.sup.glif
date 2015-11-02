@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.sup" format="1">
   <advance width="404"/>
+  <unicode hex="00B2"/>
   <outline>
     <contour>
       <point x="96" y="600" type="curve" smooth="yes"/>
