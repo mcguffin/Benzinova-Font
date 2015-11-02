@@ -7,6 +7,7 @@ In the future the Benzinova is supposed to cover all font weights from
 the font weights, having the Black weight being 9 times thicker than the Thin one.
 
 The font editor is [RoboFont](http://robofont.com/). 
+Different widths will be achieved using [Interpoaltion Matrix](https://github.com/loicsander/Robofont-scripts/tree/master/Interpolation%20Matrix) by Loïc Sander
 
 Charcters
 ---------
@@ -36,12 +37,13 @@ To Do:
 		- [x] Figures
 	- [ ] Braces
 	- [ ] Special Chars
-
+- [ ] Ultra Condensed Thin
+	- [ ] Redraw every glyph from scaffold
 - [ ] Styles
 
     | Weight/Width       | UltraCondensed | Condensed | Normal | Extended |
     |--------------------|----------------|-----------|--------|----------|
-    | Thin (100)         | DONE           |           |        |          |
+    | Thin (100)         | done           |           |        | progress |
     | Extra-Light (200)  |                |           |        |          |
     | Light (300)        |                |           |        |          |
     | Regular (400)      |                |           |        |          |
