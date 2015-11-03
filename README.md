@@ -7,7 +7,7 @@ In the future the Benzinova is supposed to cover all font weights from
 the font weights, having the Black weight being 9 times thicker than the Thin one.
 
 The font editor is [RoboFont](http://robofont.com/). 
-Different widths will be achieved using [Interpoaltion Matrix](https://github.com/loicsander/Robofont-scripts/tree/master/Interpolation%20Matrix) by Loïc Sander
+Different widths will be achieved using [Interpoltion Matrix](https://github.com/loicsander/Robofont-scripts/tree/master/Interpolation%20Matrix) by Loïc Sander
 
 Charcters
 ---------
@@ -27,29 +27,23 @@ OpenType Features
 
 To Do:
 ------
-- [ ] Character Scaffolding
-	- [x] Uppercase
-	- [x] Lowercase
-	- [ ] Punctuation
-	- [ ] Figures
-		- [x] Normal
-		- [ ] OldStyle
-		- [x] Figures
-	- [ ] Braces
-	- [ ] Special Chars
 - [ ] Ultra Condensed Thin
 	- [ ] Redraw every glyph from scaffold
-- [ ] Styles
+- [ ] Ultra Condensed Extra-Light
+- [ ] Ultra Condensed Bold
+- [ ] Extended Thin
+- [ ] Extended Extra-Light
+- [ ] Extended Black
 
     | Weight/Width       | UltraCondensed | Condensed | Normal | Extended    |
     |--------------------|----------------|-----------|--------|-------------|
-    | Thin (100)         | done           |           |        | in progress |
-    | Extra-Light (200)  |                |           |        |             |
+    | Thin (100)         | Done           |           |        | in progress |
+    | Extra-Light (200)  | must draw      |           |        | must draw   |
     | Light (300)        |                |           |        |             |
     | Regular (400)      |                |           |        |             |
     | Medium (500)       |                |           |        |             |
     | Semi-Bold (600)    |                |           |        |             |
-    | Bold (700)         |                |           |        |             |
+    | Bold (700)         | must draw      |           |        |             |
     | Heavy (800)        | -              |           |        |             |
-    | Black (900)        | -              |           |        |             |
+    | Black (900)        | -              | ?         |        | must draw   |
 
