@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="1">
-  <advance width="600.0"/>
+  <advance width="1301"/>
   <unicode hex="00C4"/>
   <outline>
     <component base="A"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>600.0</real>
+          <integer>1301</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>600.0</real>
+          <integer>1301</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

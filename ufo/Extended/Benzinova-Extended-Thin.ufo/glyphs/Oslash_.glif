@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="616.0"/>
+  <advance width="1345"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
@@ -70,7 +70,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>1345</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -92,7 +92,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>1345</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

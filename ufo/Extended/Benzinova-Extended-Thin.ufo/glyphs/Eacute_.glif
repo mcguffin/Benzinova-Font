@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eacute" format="1">
-  <advance width="632.0"/>
+  <advance width="1344"/>
   <unicode hex="00C9"/>
   <outline>
     <component base="E"/>
-    <component base="acute" xOffset="218"/>
+    <component base="acute" xOffset="575"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>632.0</real>
+          <integer>1344</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>632.0</real>
+          <integer>1344</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
