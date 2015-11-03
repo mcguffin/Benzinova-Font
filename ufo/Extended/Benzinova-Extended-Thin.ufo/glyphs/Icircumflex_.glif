@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="1">
-  <advance width="192.0"/>
+  <advance width="452"/>
   <unicode hex="00CE"/>
   <outline>
     <component base="I"/>
-    <component base="circumflex" xOffset="-216"/>
+    <component base="circumflex" xOffset="-86"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>192.0</real>
+          <integer>452</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>192.0</real>
+          <integer>452</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

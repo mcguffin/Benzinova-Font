@@ -7,7 +7,7 @@
   </note>
   <outline>
     <component base="A"/>
-    <component base="dotaccent" xOffset="200"/>
+    <component base="dotaccent" xOffset="550.5"/>
   </outline>
   <lib>
     <dict>
@@ -58,13 +58,6 @@
           <integer>1301</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

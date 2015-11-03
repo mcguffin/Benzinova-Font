@@ -142,7 +142,7 @@
 			<key>x</key>
 			<integer>0</integer>
 			<key>y</key>
-			<integer>868</integer>
+			<integer>949</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -156,7 +156,7 @@
 			<key>x</key>
 			<integer>0</integer>
 			<key>y</key>
-			<integer>836</integer>
+			<integer>917</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -168,9 +168,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>277</integer>
+			<integer>547</integer>
 			<key>y</key>
-			<integer>552</integer>
+			<integer>451</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -266,29 +266,13 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>308</integer>
+			<integer>452</integer>
 			<key>y</key>
-			<integer>698</integer>
+			<integer>1226</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
-			<integer>0</integer>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>showMeasurements</key>
-			<integer>1</integer>
-			<key>x</key>
-			<integer>455</integer>
-			<key>y</key>
-			<integer>677</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
+			<real>45.0</real>
 			<key>isGlobal</key>
 			<integer>1</integer>
 			<key>magnetic</key>
@@ -296,9 +280,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>181</integer>
+			<integer>547</integer>
 			<key>y</key>
-			<integer>283</integer>
+			<integer>482</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

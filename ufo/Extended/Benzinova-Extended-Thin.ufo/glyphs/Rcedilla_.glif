@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcedilla" format="1">
-  <advance width="690.0"/>
+  <advance width="1328"/>
   <unicode hex="0156"/>
   <outline>
     <component base="R"/>
-    <component base="cedilla" xOffset="238"/>
+    <component base="cedilla" xOffset="630" yOffset="6"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>690.0</real>
+          <integer>1328</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>690.0</real>
+          <integer>1328</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

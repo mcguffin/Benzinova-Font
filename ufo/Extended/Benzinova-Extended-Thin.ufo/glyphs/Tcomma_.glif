@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcomma" format="1">
-  <advance width="616.0"/>
+  <advance width="1344"/>
   <unicode hex="021A"/>
   <outline>
     <component base="T"/>
-    <component base="comma" xOffset="208" yOffset="-60"/>
+    <component base="comma" xOffset="566" yOffset="-60"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>1344</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>1344</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="1343.76404687"/>
+  <advance width="1327.76404687"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="110" y="1191" type="line" smooth="yes"/>
-      <point x="107" y="1199"/>
-      <point x="97" y="1202"/>
-      <point x="89" y="1198" type="curve" smooth="yes"/>
-      <point x="81" y="1195"/>
-      <point x="78" y="1185"/>
-      <point x="82" y="1177" type="curve" smooth="yes"/>
-      <point x="658" y="-25" type="line" smooth="yes"/>
-      <point x="664" y="-38"/>
-      <point x="680" y="-38"/>
-      <point x="686" y="-25" type="curve" smooth="yes"/>
-      <point x="1262" y="1177" type="line" smooth="yes"/>
-      <point x="1266" y="1185"/>
-      <point x="1263" y="1195"/>
-      <point x="1255" y="1198" type="curve" smooth="yes"/>
-      <point x="1247" y="1202"/>
-      <point x="1237" y="1199"/>
-      <point x="1234" y="1191" type="curve" smooth="yes"/>
-      <point x="658" y="-11" type="line"/>
-      <point x="686" y="-11" type="line"/>
+      <point x="102" y="1191" type="line" smooth="yes"/>
+      <point x="99" y="1199"/>
+      <point x="89" y="1202"/>
+      <point x="81" y="1198" type="curve" smooth="yes"/>
+      <point x="73" y="1195"/>
+      <point x="70" y="1185"/>
+      <point x="74" y="1177" type="curve" smooth="yes"/>
+      <point x="650" y="-25" type="line" smooth="yes"/>
+      <point x="656" y="-38"/>
+      <point x="672" y="-38"/>
+      <point x="678" y="-25" type="curve" smooth="yes"/>
+      <point x="1254" y="1177" type="line" smooth="yes"/>
+      <point x="1258" y="1185"/>
+      <point x="1255" y="1195"/>
+      <point x="1247" y="1198" type="curve" smooth="yes"/>
+      <point x="1239" y="1202"/>
+      <point x="1229" y="1199"/>
+      <point x="1226" y="1191" type="curve" smooth="yes"/>
+      <point x="650" y="-11" type="line"/>
+      <point x="678" y="-11" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>96</integer>
+                  <real>87.7640468673734</real>
                   <key>y</key>
                   <integer>1184</integer>
                 </dict>
@@ -59,7 +59,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>672</integer>
+                  <real>663.7640468673734</real>
                   <key>y</key>
                   <integer>-18</integer>
                 </dict>
@@ -69,7 +69,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>1248</integer>
+                  <real>1239.7640468673735</real>
                   <key>y</key>
                   <integer>1184</integer>
                 </dict>
@@ -85,7 +85,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1343.76404687</real>
+          <real>1327.7640468673735</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -107,7 +107,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1343.76404687</real>
+          <real>1327.7640468673735</real>
         </dict>
       </dict>
     </dict>

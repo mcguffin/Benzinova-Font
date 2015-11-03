@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="1">
-  <advance width="616.0"/>
+  <advance width="1095.60271808"/>
   <unicode hex="017A"/>
   <outline>
     <component base="z"/>
-    <component base="acute" xOffset="210" yOffset="-294"/>
+    <component base="acute" xOffset="445" yOffset="-254"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <real>1095.602718083875</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <real>1095.602718083875</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

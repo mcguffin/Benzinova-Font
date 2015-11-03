@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcedilla" format="1">
-  <advance width="364.0"/>
+  <advance width="573"/>
   <unicode hex="0157"/>
   <outline>
     <component base="r"/>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>364.0</real>
+          <integer>573</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,7 +52,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>364.0</real>
+          <integer>573</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

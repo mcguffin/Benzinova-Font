@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="jcircumflex" format="1">
-  <advance width="192.0"/>
+  <advance width="372"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-216" yOffset="-294"/>
+    <component base="dotlessj"/>
+    <component base="circumflex" xOffset="-126" yOffset="-224"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>192.0</real>
+          <integer>372</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>192.0</real>
+          <integer>372</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

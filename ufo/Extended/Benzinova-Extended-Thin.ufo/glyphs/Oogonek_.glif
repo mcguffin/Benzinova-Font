@@ -7,7 +7,7 @@
   </note>
   <outline>
     <component base="O"/>
-    <component base="ogonek" xOffset="204" yOffset="-34"/>
+    <component base="ogonek" xOffset="576" yOffset="-34"/>
   </outline>
   <lib>
     <dict>
@@ -58,13 +58,6 @@
           <integer>1345</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
