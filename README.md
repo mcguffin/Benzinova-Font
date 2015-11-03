@@ -41,15 +41,15 @@ To Do:
 	- [ ] Redraw every glyph from scaffold
 - [ ] Styles
 
-    | Weight/Width       | UltraCondensed | Condensed | Normal | Extended |
-    |--------------------|----------------|-----------|--------|----------|
-    | Thin (100)         | done           |           |        | progress |
-    | Extra-Light (200)  |                |           |        |          |
-    | Light (300)        |                |           |        |          |
-    | Regular (400)      |                |           |        |          |
-    | Medium (500)       |                |           |        |          |
-    | Semi-Bold (600)    |                |           |        |          |
-    | Bold (700)         |                |           |        |          |
-    | Heavy (800)        | -              |           |        |          |
-    | Black (900)        | -              |           |        |          |
+    | Weight/Width       | UltraCondensed | Condensed | Normal | Extended    |
+    |--------------------|----------------|-----------|--------|-------------|
+    | Thin (100)         | done           |           |        | in progress |
+    | Extra-Light (200)  |                |           |        |             |
+    | Light (300)        |                |           |        |             |
+    | Regular (400)      |                |           |        |             |
+    | Medium (500)       |                |           |        |             |
+    | Semi-Bold (600)    |                |           |        |             |
+    | Bold (700)         |                |           |        |             |
+    | Heavy (800)        | -              |           |        |             |
+    | Black (900)        | -              |           |        |             |
 
