@@ -8,7 +8,6 @@
   <outline>
     <component base="D"/>
     <component base="cedilla" xOffset="60" yOffset="-10"/>
-    <component base="dotaccent" xOffset="338"/>
   </outline>
   <lib>
     <dict>
