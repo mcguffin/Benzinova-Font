@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij" format="1">
-  <advance width="396"/>
+  <advance width="596"/>
   <unicode hex="0133"/>
   <outline>
-    <component base="j" xOffset="200"/>
+    <component base="j" xOffset="220"/>
     <component base="i"/>
   </outline>
   <lib>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>396</integer>
+          <integer>596</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>396</integer>
+          <integer>596</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

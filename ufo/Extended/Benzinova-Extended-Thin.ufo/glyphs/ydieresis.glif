@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="1">
-  <advance width="576.0"/>
+  <advance width="1053.76404687"/>
   <unicode hex="00FF"/>
   <outline>
-    <component base="y"/>
-    <component base="dieresis" xOffset="148" yOffset="-294"/>
+    <component base="y" xOffset="-20.0"/>
+    <component base="dieresis" xOffset="387.0" yOffset="-224"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>576.0</real>
+          <real>1053.76404687</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>576.0</real>
+          <real>1053.76404687</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

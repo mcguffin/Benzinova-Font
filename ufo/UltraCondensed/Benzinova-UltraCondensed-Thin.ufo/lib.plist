@@ -282,9 +282,9 @@
 			<key>showMeasurements</key>
 			<integer>1</integer>
 			<key>x</key>
-			<integer>307</integer>
+			<integer>0</integer>
 			<key>y</key>
-			<integer>426</integer>
+			<integer>436</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

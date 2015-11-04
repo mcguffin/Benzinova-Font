@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute" format="1">
-  <advance width="714.0"/>
+  <advance width="1343.88"/>
   <unicode hex="1E83"/>
   <outline>
     <component base="w"/>
-    <component base="acute" xOffset="258" yOffset="-294"/>
+    <component base="acute" xOffset="575" yOffset="-254"/>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>plum</string>
+          <key>x</key>
+          <real>671.94</real>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Scaffold</key>
@@ -30,7 +47,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>714.0</real>
+          <real>1343.88</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +69,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>714.0</real>
+          <real>1343.88</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcedilla" format="1">
-  <advance width="616.0"/>
+  <advance width="997.038671968"/>
   <unicode hex="0137"/>
   <outline>
     <component base="k"/>
-    <component base="cedilla" xOffset="142" yOffset="4"/>
+    <component base="cedilla" xOffset="522" yOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -30,7 +30,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <real>997.038671968</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -52,16 +52,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <real>997.038671968</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>
