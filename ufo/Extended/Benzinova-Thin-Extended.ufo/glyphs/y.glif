@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y" format="1">
-  <advance width="576.0"/>
+  <advance width="1093.76404687"/>
   <unicode hex="0079"/>
   <outline>
     <contour>
@@ -110,7 +110,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>576.0</real>
+          <real>1093.7640468673735</real>
         </dict>
         <key>stock</key>
         <dict>
@@ -132,7 +132,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>576.0</real>
+          <real>1093.7640468673735</real>
         </dict>
       </dict>
     </dict>

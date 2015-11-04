@@ -3,6 +3,7 @@ Batch Generate Files:
 Remove Overlap:
 ***************
 Benzinova Thin UltraCondensed
+Benzinova Thin Extended
 
 Generate:
 *********
@@ -16,7 +17,7 @@ parts Report
 
 autohint Report
 
-Hinting font /font.otf. Start time: Wed Nov  4 17:19:42 2015.
+Hinting font /font.otf. Start time: Wed Nov  4 19:27:40 2015.
 .........................................
 .........................................
 .........................................
@@ -30,8 +31,8 @@ Hinting font /font.otf. Start time: Wed Nov  4 17:19:42 2015.
 .........................................
 .........................................
 .....
-Saving font file with new hints...Wed Nov  4 17:19:45 2015
-Done with font /font.otf. End time: Wed Nov  4 17:19:45 2015.
+Saving font file with new hints...Wed Nov  4 19:27:43 2015
+Done with font /font.otf. End time: Wed Nov  4 19:27:43 2015.
 
 
 makeotf Report
@@ -43,10 +44,54 @@ makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
 makeotf [Note] Writing options file /current.fpr
 makeotf [Note] Running makeotfexe with commands:
    cd ""
-   makeotfexe -f font.otf.tmp -o Benzinova-ThinUltraCondensed.otf -ff features -gf glyphOrder -mf menuname -r
+   makeotfexe -f font.otf.tmp -o Benzinova-ThinUltraCondensed.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
 makeotfexe [NOTE] Wrote new font file 'Benzinova-ThinUltraCondensed.otf'.
 
 
 Built release mode font 'Benzinova-ThinUltraCondensed.otf' Revision 1.000
+
+--------------------
+Benzinova Thin Extended to /Users/joern/Documents/Fonts/Benzinova-Font/otf/Benzinova-ThinExtended.otf
+--------------------
+
+parts Report
+
+[Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2015 by Jorn Lund. All rights reserved.'
+
+
+autohint Report
+
+Hinting font /font.otf. Start time: Wed Nov  4 19:27:43 2015.
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.........................................
+.....
+Saving font file with new hints...Wed Nov  4 19:27:46 2015
+Done with font /font.otf. End time: Wed Nov  4 19:27:46 2015.
+
+
+makeotf Report
+
+makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+makeotf [Note] Writing options file /current.fpr
+makeotf [Note] Running makeotfexe with commands:
+   cd ""
+   makeotfexe -f font.otf.tmp -o Benzinova-ThinExtended.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+makeotfexe [NOTE] Wrote new font file 'Benzinova-ThinExtended.otf'.
+
+
+Built release mode font 'Benzinova-ThinExtended.otf' Revision 1.000
 
 --------------------
