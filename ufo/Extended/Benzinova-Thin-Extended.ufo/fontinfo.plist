@@ -11,9 +11,11 @@
 	<key>descender</key>
 	<integer>-560</integer>
 	<key>familyName</key>
-	<string>Benzinova Extended</string>
+	<string>Benzinova</string>
 	<key>italicAngle</key>
 	<integer>0</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Benzinova Thin Extended</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright 2015 by Jörn Lund. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -28,12 +30,18 @@
 	<string>Jörn Lund</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string></string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Benzinova</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Thin Extended</string>
 	<key>openTypeNameSampleText</key>
 	<string></string>
+	<key>openTypeNameUniqueID</key>
+	<string>1.000;pyrs;Benzinova Thin Extended</string>
 	<key>openTypeNameWWSFamilyName</key>
 	<string>Benzinova</string>
 	<key>openTypeNameWWSSubfamilyName</key>
-	<string>Extended</string>
+	<string>Thin Extended</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -56,6 +64,10 @@
 		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Selection</key>
+	<array>
+		<integer>8</integer>
 	</array>
 	<key>openTypeOS2Type</key>
 	<array>
@@ -111,8 +123,10 @@
 	<integer>-92</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>32</integer>
+	<key>styleMapFamilyName</key>
+	<string>Benzinova</string>
 	<key>styleName</key>
-	<string>Thin</string>
+	<string>Thin Extended</string>
 	<key>trademark</key>
 	<string></string>
 	<key>unitsPerEm</key>

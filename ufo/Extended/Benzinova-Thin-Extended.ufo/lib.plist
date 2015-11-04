@@ -30,7 +30,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/joern/Documents/Fonts/Benzinova-Font/otf/Benzinova-Extended-Thin.otf</string>
+	<string>/Users/joern/Documents/Fonts/Benzinova-Font/otf/Benzinova-Thin-Extended.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
@@ -855,6 +855,7 @@
 				<string>seven.oldstyle</string>
 				<string>eight.oldstyle</string>
 				<string>nine.oldstyle</string>
+				<string>apple</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
