@@ -42,8 +42,8 @@ To Do:
     | Light (300)        |                |           |        |             |
     | Regular (400)      |                |           |        |             |
     | Medium (500)       |                |           |        |             |
-    | Semi-Bold (600)    |                |           |        |             |
-    | Bold (700)         | must draw      |           |        |             |
+    | Semi-Bold (600)    | must draw      |           |        |             |
+    | Bold (700)         | -              |           |        |             |
     | Heavy (800)        | -              |           |        |             |
     | Black (900)        | -              | ?         |        | must draw   |
 

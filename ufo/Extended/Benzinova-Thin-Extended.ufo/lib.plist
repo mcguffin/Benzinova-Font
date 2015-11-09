@@ -272,20 +272,6 @@
 		</dict>
 		<dict>
 			<key>angle</key>
-			<real>45.0</real>
-			<key>isGlobal</key>
-			<integer>1</integer>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>name</key>
-			<string></string>
-			<key>x</key>
-			<integer>547</integer>
-			<key>y</key>
-			<integer>482</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
 			<real>90.0</real>
 			<key>isGlobal</key>
 			<integer>1</integer>

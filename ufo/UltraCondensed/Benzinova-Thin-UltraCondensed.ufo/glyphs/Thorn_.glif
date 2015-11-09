@@ -4,42 +4,52 @@
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="308" y="836" type="line"/>
-      <point x="416" y="836"/>
-      <point x="504" y="748"/>
-      <point x="504" y="640" type="curve" smooth="yes"/>
-      <point x="504" y="212" type="line"/>
-      <point x="504" y="104"/>
-      <point x="416" y="16"/>
-      <point x="308" y="16" type="curve"/>
-      <point x="112" y="16" type="line"/>
-      <point x="112" y="836" type="line"/>
+      <point x="86" y="-160" type="line" smooth="yes"/>
+      <point x="86" y="-165"/>
+      <point x="91" y="-170"/>
+      <point x="96" y="-170" type="curve" smooth="yes"/>
+      <point x="101" y="-170"/>
+      <point x="106" y="-165"/>
+      <point x="106" y="-160" type="curve" smooth="yes"/>
+      <point x="106" y="1200" type="line" smooth="yes"/>
+      <point x="106" y="1205"/>
+      <point x="101" y="1210"/>
+      <point x="96" y="1210" type="curve" smooth="yes"/>
+      <point x="91" y="1210"/>
+      <point x="86" y="1205"/>
+      <point x="86" y="1200" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="112" y="-160" type="curve" smooth="yes"/>
-      <point x="112" y="-16" type="line"/>
-      <point x="309" y="-16" type="line"/>
-      <point x="435" y="-16"/>
-      <point x="536" y="86"/>
-      <point x="536" y="212" type="curve" smooth="yes"/>
-      <point x="536" y="640" type="line" smooth="yes"/>
-      <point x="536" y="766"/>
-      <point x="434" y="868"/>
-      <point x="308" y="868" type="curve"/>
-      <point x="112" y="868" type="line"/>
-      <point x="112" y="1200" type="line" smooth="yes"/>
-      <point x="112" y="1208"/>
-      <point x="104" y="1216"/>
-      <point x="96" y="1216" type="curve" smooth="yes"/>
-      <point x="88" y="1216"/>
-      <point x="80" y="1208"/>
-      <point x="80" y="1200" type="curve" smooth="yes"/>
-      <point x="80" y="-160" type="line" smooth="yes"/>
-      <point x="80" y="-168"/>
-      <point x="88" y="-176"/>
-      <point x="96" y="-176" type="curve" smooth="yes"/>
-      <point x="104" y="-176"/>
-      <point x="112" y="-168"/>
+      <point x="106" y="862" type="line" smooth="yes"/>
+      <point x="101" y="862"/>
+      <point x="96" y="857"/>
+      <point x="96" y="852" type="curve" smooth="yes"/>
+      <point x="96" y="847"/>
+      <point x="101" y="842"/>
+      <point x="106" y="842" type="curve" smooth="yes"/>
+      <point x="308" y="842" type="line" smooth="yes"/>
+      <point x="419" y="842"/>
+      <point x="510" y="751"/>
+      <point x="510" y="640" type="curve" smooth="yes"/>
+      <point x="510" y="212" type="line" smooth="yes"/>
+      <point x="510" y="101"/>
+      <point x="419" y="10"/>
+      <point x="308" y="10" type="curve" smooth="yes"/>
+      <point x="106" y="10" type="line" smooth="yes"/>
+      <point x="101" y="10"/>
+      <point x="96" y="5"/>
+      <point x="96" y="0" type="curve" smooth="yes"/>
+      <point x="96" y="-5"/>
+      <point x="101" y="-10"/>
+      <point x="106" y="-10" type="curve" smooth="yes"/>
+      <point x="308" y="-10" type="line" smooth="yes"/>
+      <point x="431" y="-10"/>
+      <point x="530" y="89"/>
+      <point x="530" y="212" type="curve" smooth="yes"/>
+      <point x="530" y="640" type="line" smooth="yes"/>
+      <point x="530" y="763"/>
+      <point x="431" y="862"/>
+      <point x="308" y="862" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -88,7 +98,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>96</integer>
+                  <integer>106</integer>
                   <key>y</key>
                   <integer>852</integer>
                 </dict>
@@ -170,7 +180,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>96</integer>
+                  <integer>106</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -211,6 +221,13 @@
           <real>616.0</real>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.653</real>
+        <real>0.8174</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

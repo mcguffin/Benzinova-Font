@@ -1,5 +1,5 @@
 Matrix Interpolation File
 4,1
-208.0,143.0,1000.0,400.0
+121.0,123.0,1000.0,400.0
 G
-a0:100/100:/Users/joern/Documents/Fonts/Benzinova-Font/ufo/UltraCondensed/Benzinova-UltraCondensed-Thin.ufo,d0:700/100:/Users/joern/Documents/Fonts/Benzinova-Font/ufo/Extended/Benzinova-Extended-Thin.ufo
+a0:100/100:/Users/joern/Documents/Fonts/Benzinova-Font/ufo/UltraCondensed/Benzinova-Thin-UltraCondensed.ufo,d0:400/100:/Users/joern/Documents/Fonts/Benzinova-Font/ufo/Extended/Benzinova-Thin-Extended.ufo
