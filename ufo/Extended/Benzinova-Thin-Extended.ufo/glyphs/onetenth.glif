@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onetenth" format="1">
-  <advance width="1212"/>
+  <advance width="1500"/>
   <unicode hex="2152"/>
   <outline>
     <component base="fraction"/>
     <component base="one.sup"/>
-    <component base="one.sup" xOffset="404" yOffset="-664"/>
-    <component base="zero.sup" xOffset="808" yOffset="-664"/>
+    <component base="one.sup" xOffset="514" yOffset="-594"/>
+    <component base="zero.sup" xOffset="918" yOffset="-594"/>
   </outline>
   <lib>
     <dict>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1212</integer>
+          <integer>1500</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -71,16 +71,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1212</integer>
+          <integer>1500</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

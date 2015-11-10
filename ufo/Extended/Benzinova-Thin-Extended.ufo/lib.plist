@@ -40,7 +40,7 @@
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
 	<true/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -325,6 +325,48 @@
 			<integer>542</integer>
 			<key>y</key>
 			<integer>1092</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>856</integer>
+			<key>y</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>872</integer>
+			<key>y</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<real>90.0</real>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>840</integer>
+			<key>y</key>
+			<integer>0</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>

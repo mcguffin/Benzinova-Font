@@ -3,8 +3,8 @@
   <advance width="808"/>
   <unicode hex="2159"/>
   <outline>
-    <component base="fraction"/>
     <component base="one.sup"/>
+    <component base="fraction"/>
     <component base="six.sup" xOffset="404" yOffset="-664"/>
   </outline>
   <lib>

@@ -3,7 +3,7 @@
   <advance width="200.0"/>
   <unicode hex="00B7"/>
   <outline>
-    <component base="period" yOffset="406"/>
+    <component base="period" yOffset="444"/>
   </outline>
   <lib>
     <dict>
@@ -54,13 +54,6 @@
           <real>200.0</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

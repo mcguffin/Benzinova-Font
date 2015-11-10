@@ -1,33 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="384.0"/>
+  <advance width="474"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="308" y="-32" type="line"/>
-      <point x="316" y="-32"/>
-      <point x="324" y="-24"/>
-      <point x="324" y="-16" type="curve" smooth="yes"/>
-      <point x="324" y="-8"/>
-      <point x="316" y="0"/>
-      <point x="308" y="0" type="curve" smooth="yes"/>
-      <point x="112" y="0" type="line"/>
-      <point x="112" y="1200" type="line"/>
-      <point x="308" y="1200" type="line" smooth="yes"/>
-      <point x="316" y="1200"/>
-      <point x="324" y="1208"/>
-      <point x="324" y="1216" type="curve" smooth="yes"/>
-      <point x="324" y="1224"/>
-      <point x="316" y="1232"/>
-      <point x="308" y="1232" type="curve" smooth="yes"/>
-      <point x="96" y="1232" type="line" smooth="yes"/>
-      <point x="88" y="1232"/>
-      <point x="80" y="1224"/>
-      <point x="80" y="1216" type="curve" smooth="yes"/>
-      <point x="80" y="-16" type="line" smooth="yes"/>
-      <point x="80" y="-24"/>
-      <point x="88" y="-32"/>
-      <point x="96" y="-32" type="curve" smooth="yes"/>
+      <point x="398" y="1200" type="line" smooth="yes"/>
+      <point x="407" y="1200"/>
+      <point x="414" y="1207"/>
+      <point x="414" y="1216" type="curve" smooth="yes"/>
+      <point x="414" y="1225"/>
+      <point x="407" y="1232"/>
+      <point x="398" y="1232" type="curve" smooth="yes"/>
+      <point x="136" y="1232" type="line" smooth="yes"/>
+      <point x="127" y="1232"/>
+      <point x="120" y="1225"/>
+      <point x="120" y="1216" type="curve" smooth="yes"/>
+      <point x="120" y="-16" type="line" smooth="yes"/>
+      <point x="120" y="-25"/>
+      <point x="127" y="-32"/>
+      <point x="136" y="-32" type="curve" smooth="yes"/>
+      <point x="398" y="-32" type="line" smooth="yes"/>
+      <point x="407" y="-32"/>
+      <point x="414" y="-25"/>
+      <point x="414" y="-16" type="curve" smooth="yes"/>
+      <point x="414" y="-7"/>
+      <point x="407" y="0"/>
+      <point x="398" y="0" type="curve" smooth="yes"/>
+      <point x="136" y="0" type="line"/>
+      <point x="152" y="-16" type="line"/>
+      <point x="152" y="1216" type="line"/>
+      <point x="136" y="1200" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +55,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>308</integer>
+                  <integer>398</integer>
                   <key>y</key>
                   <integer>1216</integer>
                 </dict>
@@ -63,7 +65,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>96</integer>
+                  <integer>136</integer>
                   <key>y</key>
                   <integer>1216</integer>
                 </dict>
@@ -73,7 +75,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>96</integer>
+                  <integer>136</integer>
                   <key>y</key>
                   <integer>-16</integer>
                 </dict>
@@ -83,7 +85,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>308</integer>
+                  <integer>398</integer>
                   <key>y</key>
                   <integer>-16</integer>
                 </dict>
@@ -99,7 +101,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>384.0</real>
+          <integer>474</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -121,16 +123,9 @@
           <array>
           </array>
           <key>width</key>
-          <real>384.0</real>
+          <integer>474</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

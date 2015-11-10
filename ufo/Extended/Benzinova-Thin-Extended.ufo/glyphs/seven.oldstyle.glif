@@ -4,28 +4,26 @@
   <unicode hex="F737"/>
   <outline>
     <contour>
-      <point x="308" y="-348" type="curve" smooth="yes"/>
-      <point x="316" y="-348"/>
-      <point x="322" y="-342"/>
-      <point x="324" y="-334" type="curve" smooth="yes"/>
-      <point x="536" y="834" type="line"/>
-      <point x="536" y="842"/>
-      <point x="530" y="852"/>
-      <point x="520" y="852" type="curve" smooth="yes"/>
-      <point x="96" y="852" type="line" smooth="yes"/>
-      <point x="88" y="852"/>
-      <point x="80" y="844"/>
-      <point x="80" y="836" type="curve" smooth="yes"/>
-      <point x="80" y="828"/>
-      <point x="88" y="820"/>
-      <point x="96" y="820" type="curve" smooth="yes"/>
-      <point x="500" y="820" type="line"/>
-      <point x="292" y="-330" type="line"/>
-      <point x="292" y="-332"/>
-      <point x="292" y="-332"/>
-      <point x="292" y="-334" type="curve" smooth="yes"/>
-      <point x="292" y="-340"/>
-      <point x="298" y="-348"/>
+      <point x="96" y="933" type="line" smooth="yes"/>
+      <point x="87" y="933"/>
+      <point x="80" y="926"/>
+      <point x="80" y="917" type="curve" smooth="yes"/>
+      <point x="80" y="908"/>
+      <point x="87" y="901"/>
+      <point x="96" y="901" type="curve" smooth="yes"/>
+      <point x="856" y="901" type="line"/>
+      <point x="841" y="922" type="line"/>
+      <point x="441" y="-246" type="line" smooth="yes"/>
+      <point x="438" y="-254"/>
+      <point x="443" y="-263"/>
+      <point x="451" y="-266" type="curve" smooth="yes"/>
+      <point x="459" y="-269"/>
+      <point x="468" y="-264"/>
+      <point x="471" y="-256" type="curve" smooth="yes"/>
+      <point x="871" y="912" type="line" smooth="yes"/>
+      <point x="875" y="924"/>
+      <point x="868" y="933"/>
+      <point x="856" y="933" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +51,7 @@
                   <key>x</key>
                   <integer>96</integer>
                   <key>y</key>
-                  <integer>836</integer>
+                  <integer>917</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -61,9 +59,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>520</integer>
+                  <integer>856</integer>
                   <key>y</key>
-                  <integer>836</integer>
+                  <integer>917</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -71,9 +69,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>308</integer>
+                  <integer>456</integer>
                   <key>y</key>
-                  <integer>-332</integer>
+                  <integer>-251</integer>
                 </dict>
               </array>
             </dict>
@@ -112,13 +110,6 @@
           <real>616.0</real>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

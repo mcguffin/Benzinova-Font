@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Thorn" format="1">
-  <advance width="616.0"/>
+  <advance width="1247"/>
   <unicode hex="00DE"/>
   <outline>
     <contour>
@@ -196,7 +196,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>1247</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -218,7 +218,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>616.0</real>
+          <integer>1247</integer>
         </dict>
       </dict>
     </dict>

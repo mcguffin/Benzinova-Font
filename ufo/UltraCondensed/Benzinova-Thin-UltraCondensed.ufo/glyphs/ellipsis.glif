@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="390"/>
+  <advance width="400"/>
   <unicode hex="2026"/>
   <outline>
     <component base="period"/>
-    <component base="period" xOffset="90"/>
-    <component base="period" xOffset="190"/>
+    <component base="period" xOffset="100"/>
+    <component base="period" xOffset="200"/>
   </outline>
   <lib>
     <dict>
@@ -31,7 +31,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>390</integer>
+          <integer>400</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>390</integer>
+          <integer>400</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

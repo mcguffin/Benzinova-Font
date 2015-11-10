@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight.sub" format="1">
-  <advance width="404"/>
+  <advance width="582"/>
   <unicode hex="2088"/>
   <outline>
     <component base="eight.sup" yOffset="-750.0"/>
@@ -29,7 +29,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>404</integer>
+          <integer>582</integer>
         </dict>
         <key>stock</key>
         <dict>
@@ -51,16 +51,9 @@
           <array>
           </array>
           <key>width</key>
-          <integer>404</integer>
+          <integer>582</integer>
         </dict>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>0.9367</real>
-        <real>0.4888</real>
-        <real>1.0</real>
-      </array>
     </dict>
   </lib>
 </glyph>

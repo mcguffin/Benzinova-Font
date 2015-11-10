@@ -802,6 +802,7 @@
 				<string>eight.oldstyle</string>
 				<string>nine.oldstyle</string>
 				<string>apple</string>
+				<string>a.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1323,6 +1324,7 @@
 		<string>eight.oldstyle</string>
 		<string>nine.oldstyle</string>
 		<string>apple</string>
+		<string>a.alt</string>
 	</array>
 </dict>
 </plist>

@@ -4,34 +4,26 @@
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="312" y="1262" type="curve" smooth="yes"/>
-      <point x="316" y="1262"/>
-      <point x="320" y="1264"/>
-      <point x="324" y="1266" type="curve"/>
       <point x="406" y="1350" type="line" smooth="yes"/>
-      <point x="408" y="1352"/>
-      <point x="410" y="1356"/>
-      <point x="410" y="1360" type="curve" smooth="yes"/>
-      <point x="410" y="1370"/>
-      <point x="404" y="1376"/>
-      <point x="394" y="1376" type="curve" smooth="yes"/>
-      <point x="390" y="1376"/>
-      <point x="386" y="1374"/>
+      <point x="412" y="1356"/>
+      <point x="412" y="1366"/>
+      <point x="406" y="1372" type="curve" smooth="yes"/>
+      <point x="400" y="1378"/>
+      <point x="390" y="1378"/>
       <point x="384" y="1372" type="curve" smooth="yes"/>
-      <point x="312" y="1300" type="line"/>
+      <point x="301" y="1289" type="line"/>
+      <point x="323" y="1289" type="line"/>
       <point x="240" y="1372" type="line" smooth="yes"/>
-      <point x="236" y="1374"/>
-      <point x="232" y="1376"/>
-      <point x="228" y="1376" type="curve" smooth="yes"/>
-      <point x="220" y="1376"/>
-      <point x="214" y="1370"/>
-      <point x="214" y="1360" type="curve" smooth="yes"/>
-      <point x="214" y="1356"/>
-      <point x="214" y="1352"/>
-      <point x="218" y="1350" type="curve"/>
-      <point x="300" y="1266" type="line"/>
-      <point x="304" y="1264"/>
-      <point x="308" y="1262"/>
+      <point x="234" y="1378"/>
+      <point x="224" y="1378"/>
+      <point x="218" y="1372" type="curve" smooth="yes"/>
+      <point x="212" y="1366"/>
+      <point x="212" y="1356"/>
+      <point x="218" y="1350" type="curve" smooth="yes"/>
+      <point x="301" y="1267" type="line" smooth="yes"/>
+      <point x="307" y="1260"/>
+      <point x="317" y="1260"/>
+      <point x="323" y="1267" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -116,6 +108,13 @@
           <real>648.0</real>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.653</real>
+        <real>0.8174</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
