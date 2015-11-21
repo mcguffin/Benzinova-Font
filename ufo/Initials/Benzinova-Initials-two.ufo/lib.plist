@@ -103,6 +103,7 @@
 				<string>seven</string>
 				<string>eight</string>
 				<string>nine</string>
+				<string>thing</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

@@ -42,7 +42,7 @@
 	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>

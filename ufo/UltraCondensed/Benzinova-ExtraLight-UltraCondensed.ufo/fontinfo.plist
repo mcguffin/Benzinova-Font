@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1440</integer>
+	<key>capHeight</key>
+	<integer>1200</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2015 by Jörn Lund. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-560</integer>
+	<key>familyName</key>
+	<string>Benzinova</string>
+	<key>italicAngle</key>
+	<integer>0</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Benzinova ExtraLight UltraCondensed</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright 2015 by Jörn Lund. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Jörn Lund</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://github.com/mcguffin</string>
+	<key>openTypeNameLicense</key>
+	<string>SIL Open Font License</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL_web</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Jörn Lund</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string></string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Benzinova</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>ExtraLight UltraCondensed</string>
+	<key>openTypeNameSampleText</key>
+	<string></string>
+	<key>openTypeNameUniqueID</key>
+	<string>1.000;pyrs;Benzinova ExtraLight UltraCondensed</string>
+	<key>openTypeNameWWSFamilyName</key>
+	<string>Benzinova</string>
+	<key>openTypeNameWWSSubfamilyName</key>
+	<string>ExtraLight UltraCondensed</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>11</integer>
+		<integer>2</integer>
+		<integer>6</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Selection</key>
+	<array>
+		<integer>8</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>4</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>pyrs</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>100</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>2</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-16</integer>
+		<integer>0</integer>
+		<integer>601</integer>
+		<integer>616</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptIsFixedPitch</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-92</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>32</integer>
+	<key>styleName</key>
+	<string>ExtraLight UltraCondensed</string>
+	<key>trademark</key>
+	<string></string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>852</integer>
+	<key>year</key>
+	<integer>2015</integer>
+</dict>
+</plist>

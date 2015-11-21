@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="612.0"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="290" y="216" type="line" smooth="yes"/>
+      <point x="290" y="207"/>
+      <point x="297" y="200"/>
+      <point x="306" y="200" type="curve" smooth="yes"/>
+      <point x="315" y="200"/>
+      <point x="322" y="207"/>
+      <point x="322" y="216" type="curve" smooth="yes"/>
+      <point x="322" y="636" type="line" smooth="yes"/>
+      <point x="322" y="645"/>
+      <point x="315" y="652"/>
+      <point x="306" y="652" type="curve" smooth="yes"/>
+      <point x="297" y="652"/>
+      <point x="290" y="645"/>
+      <point x="290" y="636" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="516" y="410" type="line" smooth="yes"/>
+      <point x="525" y="410"/>
+      <point x="532" y="417"/>
+      <point x="532" y="426" type="curve" smooth="yes"/>
+      <point x="532" y="435"/>
+      <point x="525" y="442"/>
+      <point x="516" y="442" type="curve" smooth="yes"/>
+      <point x="96" y="442" type="line" smooth="yes"/>
+      <point x="87" y="442"/>
+      <point x="80" y="435"/>
+      <point x="80" y="426" type="curve" smooth="yes"/>
+      <point x="80" y="417"/>
+      <point x="87" y="410"/>
+      <point x="96" y="410" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Scaffold</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>306</integer>
+                  <key>y</key>
+                  <integer>216</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>306</integer>
+                  <key>y</key>
+                  <integer>636</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>move</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>516</integer>
+                  <key>y</key>
+                  <integer>426</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>96</integer>
+                  <key>y</key>
+                  <integer>426</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>612.0</real>
+        </dict>
+        <key>stock</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plus</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>612.0</real>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.653</real>
+        <real>0.8174</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
