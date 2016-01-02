@@ -534,8 +534,6 @@
 	<string>fourfifths.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
-	<key>franc</key>
-	<string>franc.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>gacute</key>
@@ -636,8 +634,6 @@
 	<string>less.glif</string>
 	<key>lessequal</key>
 	<string>lessequal.glif</string>
-	<key>lira</key>
-	<string>lira.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>longs</key>
@@ -768,8 +764,6 @@
 	<string>periodcentered.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
-	<key>peseta</key>
-	<string>peseta.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
