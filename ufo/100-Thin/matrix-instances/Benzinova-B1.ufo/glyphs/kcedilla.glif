@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcedilla" format="1">
+  <advance width="743"/>
+  <outline>
+    <component base="k"/>
+    <component base="cedilla" xOffset="269" yOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8624</real>
+        <real>0.8624</real>
+        <real>0.8624</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

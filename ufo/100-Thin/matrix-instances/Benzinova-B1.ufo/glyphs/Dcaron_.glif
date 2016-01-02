@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="1">
+  <advance width="859.0"/>
+  <unicode hex="010E"/>
+  <outline>
+    <component base="caron" xOffset="64"/>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8624</real>
+        <real>0.8624</real>
+        <real>0.8624</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
