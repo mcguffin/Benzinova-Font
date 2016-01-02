@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="1012"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="490" y="1197" type="line"/>
+      <point x="490" y="1188"/>
+      <point x="497" y="1181"/>
+      <point x="506" y="1181" type="curve" smooth="yes"/>
+      <point x="515" y="1181"/>
+      <point x="522" y="1188"/>
+      <point x="522" y="1197" type="curve" smooth="yes"/>
+      <point x="522" y="1276" type="line" smooth="yes"/>
+      <point x="522" y="1285"/>
+      <point x="515" y="1292"/>
+      <point x="506" y="1292" type="curve" smooth="yes"/>
+      <point x="497" y="1292"/>
+      <point x="490" y="1285"/>
+      <point x="490" y="1276" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="490" y="-73" type="line"/>
+      <point x="490" y="-82"/>
+      <point x="497" y="-89"/>
+      <point x="506" y="-89" type="curve" smooth="yes"/>
+      <point x="515" y="-89"/>
+      <point x="522" y="-82"/>
+      <point x="522" y="-73" type="curve" smooth="yes"/>
+      <point x="522" y="6" type="line" smooth="yes"/>
+      <point x="522" y="15"/>
+      <point x="515" y="22"/>
+      <point x="506" y="22" type="curve" smooth="yes"/>
+      <point x="497" y="22"/>
+      <point x="490" y="15"/>
+      <point x="490" y="6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="830" y="939" type="curve" smooth="yes"/>
+      <point x="830" y="930"/>
+      <point x="837" y="923"/>
+      <point x="846" y="923" type="curve" smooth="yes"/>
+      <point x="855" y="923"/>
+      <point x="862" y="930"/>
+      <point x="862" y="939" type="curve" smooth="yes"/>
+      <point x="862" y="1086"/>
+      <point x="742" y="1205"/>
+      <point x="595" y="1205" type="curve" smooth="yes"/>
+      <point x="417" y="1205" type="line" smooth="yes"/>
+      <point x="271" y="1205"/>
+      <point x="151" y="1087"/>
+      <point x="151" y="940" type="curve" smooth="yes"/>
+      <point x="151" y="927" type="line" smooth="yes"/>
+      <point x="151" y="780"/>
+      <point x="271" y="661"/>
+      <point x="417" y="661" type="curve" smooth="yes"/>
+      <point x="615" y="661" type="line" smooth="yes"/>
+      <point x="772" y="661"/>
+      <point x="901" y="533"/>
+      <point x="901" y="376" type="curve" smooth="yes"/>
+      <point x="901" y="315" type="line" smooth="yes"/>
+      <point x="901" y="157"/>
+      <point x="772" y="30"/>
+      <point x="615" y="30" type="curve" smooth="yes"/>
+      <point x="398" y="30" type="line" smooth="yes"/>
+      <point x="241" y="30"/>
+      <point x="112" y="158"/>
+      <point x="112" y="315" type="curve" smooth="yes"/>
+      <point x="112" y="324"/>
+      <point x="105" y="331"/>
+      <point x="96" y="331" type="curve" smooth="yes"/>
+      <point x="87" y="331"/>
+      <point x="80" y="324"/>
+      <point x="80" y="315" type="curve" smooth="yes"/>
+      <point x="80" y="140"/>
+      <point x="223" y="-2"/>
+      <point x="398" y="-2" type="curve" smooth="yes"/>
+      <point x="615" y="-2" type="line" smooth="yes"/>
+      <point x="790" y="-2"/>
+      <point x="933" y="139"/>
+      <point x="933" y="315" type="curve" smooth="yes"/>
+      <point x="933" y="376" type="line" smooth="yes"/>
+      <point x="933" y="551"/>
+      <point x="790" y="693"/>
+      <point x="615" y="693" type="curve" smooth="yes"/>
+      <point x="417" y="693" type="line" smooth="yes"/>
+      <point x="289" y="693"/>
+      <point x="183" y="798"/>
+      <point x="183" y="927" type="curve" smooth="yes"/>
+      <point x="183" y="940" type="line" smooth="yes"/>
+      <point x="183" y="1069"/>
+      <point x="289" y="1173"/>
+      <point x="417" y="1173" type="curve" smooth="yes"/>
+      <point x="595" y="1173" type="line" smooth="yes"/>
+      <point x="724" y="1173"/>
+      <point x="830" y="1068"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

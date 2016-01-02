@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="693"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="597" y="-16" type="line"/>
+      <point x="605" y="-16"/>
+      <point x="613" y="-8"/>
+      <point x="613" y="0" type="curve" smooth="yes"/>
+      <point x="613" y="8"/>
+      <point x="605" y="16"/>
+      <point x="597" y="16" type="curve" smooth="yes"/>
+      <point x="96" y="16" type="line" smooth="yes"/>
+      <point x="88" y="16"/>
+      <point x="80" y="8"/>
+      <point x="80" y="0" type="curve" smooth="yes"/>
+      <point x="80" y="-8"/>
+      <point x="88" y="-16"/>
+      <point x="96" y="-16" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

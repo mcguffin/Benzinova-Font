@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="284.0"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="quoteright" yOffset="-1216"/>
+    <component base="quoteright" xOffset="100" yOffset="-1216"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.8624</real>
+        <real>0.8624</real>
+        <real>0.8624</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
