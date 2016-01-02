@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe" format="1">
-  <advance width="934"/>
+  <advance width="935"/>
   <unicode hex="0149"/>
   <outline>
     <component base="quoteright" xOffset="21" yOffset="-180"/>

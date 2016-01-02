@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onetenth" format="1">
-  <advance width="1404"/>
+  <advance width="1404.0"/>
   <outline>
     <component base="zero.sup" xOffset="881" yOffset="-617"/>
     <component base="one.sup"/>

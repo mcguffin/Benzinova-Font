@@ -2,7 +2,7 @@
 <glyph name="Tcomma" format="1">
   <advance width="1101"/>
   <outline>
-    <component base="comma" xOffset="446" yOffset="-60"/>
+    <component base="comma" xOffset="447" yOffset="-60"/>
     <component base="T"/>
   </outline>
   <lib>

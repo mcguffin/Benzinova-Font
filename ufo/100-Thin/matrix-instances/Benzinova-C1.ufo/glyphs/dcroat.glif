@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dcroat" format="1">
-  <advance width="935"/>
+  <advance width="936"/>
   <unicode hex="0111"/>
   <outline>
     <component base="macron" xOffset="653" yOffset="-358"/>

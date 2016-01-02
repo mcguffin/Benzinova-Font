@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncedilla" format="1">
-  <advance width="1106"/>
+  <advance width="1107"/>
   <outline>
     <component base="cedilla" xOffset="633" yOffset="1"/>
     <component base="N"/>

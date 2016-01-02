@@ -6,7 +6,7 @@
   </note>
   <outline>
     <component base="A"/>
-    <component base="dotaccent" xOffset="433"/>
+    <component base="dotaccent" xOffset="434"/>
   </outline>
   <lib>
     <dict>
