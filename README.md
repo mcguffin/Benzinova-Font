@@ -34,26 +34,16 @@ To Do:
 - [ ] Expanded Extra-Light
 - [ ] Expanded Black
 
-    | Weight/Width       | ExtraCondensed | Condensed | Normal | Expanded    |
-    |--------------------|----------------|-----------|--------|-------------|
-    | Thin (100)         | Done           |           |        | Done        |
-    | Extra-Light (200)  | must draw      |           |        | must draw   |
-    | Light (300)        |                |           |        |             |
-    | Regular (400)      |                |           |        |             |
-    | Medium (500)       |                |           |        |             |
-    | Semi-Bold (600)    | must draw      |           |        |             |
-    | Bold (700)         | -              |           |        |             |
-    | Heavy (800)        | -              |           |        |             |
-    | Black (900)        | -              | ?         |        | must draw   |
+    | Weight/Width       | ExtraCondensed | Condensed | Normal    | Expanded    |
+    |--------------------|----------------|-----------|-----------|-------------|
+    | Thin (100)         | Done           | generated | generated | Done        |
+    | Extra-Light (200)  | must draw      |           |           | must draw   |
+    | Light (300)        |                |           |           |             |
+    | Regular (400)      |                |           |           |             |
+    | Medium (500)       |                |           |           |             |
+    | Semi-Bold (600)    | must draw      |           |           |             |
+    | Bold (700)         | -              |           |           |             |
+    | Heavy (800)        | -              |           |           |             |
+    | Black (900)        | -              | ?         |           | must draw   |
 
 
-
-UltraCondensed	(100)
-ExtraCondensed	(200)
-Condensed 		(300)
-Semi-Condensed	(400)
-Medium			(500)
-SemiExpanded	(600)
-Expanded		(700)
-ExtraExpanded	(800)
-UltraExpanded	(900)
