@@ -2,11 +2,25 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.typemytype.robofont.compileSettings.autohint</key>
+	<true/>
+	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+	<false/>
+	<key>com.typemytype.robofont.compileSettings.decompose</key>
+	<false/>
+	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
+	<integer>0</integer>
+	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
+	<false/>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -508,6 +522,7 @@
 				<string>eight.oldstyle</string>
 				<string>nine.oldstyle</string>
 				<string>apple</string>
+				<string>a.alt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1011,6 +1026,7 @@
 		<string>eight.oldstyle</string>
 		<string>nine.oldstyle</string>
 		<string>apple</string>
+		<string>a.alt</string>
 	</array>
 </dict>
 </plist>

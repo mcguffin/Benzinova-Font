@@ -1,0 +1,382 @@
+Converted Files:
+****************
+
+Benzinova-Thin.ufo
+------------------
+source: /Users/joern/Documents/Fonts/Benzinova-Font/ufo/100-Thin/Benzinova-Thin.ufo
+
+Build OTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/Thin/Benzinova-Thin.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        parts Report
+        
+        [Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2015 by Jorn Lund. All rights reserved.'
+        
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f font.otf.tmp -o tmpxsUi4X.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [WARNING] <Benzinova-Thin> [internal] Feature block seen before any language system statement.  You should place languagesystem statements before any feature definition [features 3]
+        makeotfexe [WARNING] <Benzinova-Thin> Major version number not in range 1 .. 255 [features 53]
+        makeotfexe [NOTE] Wrote new font file 'tmpxsUi4X.otf'.
+        
+        
+        Built release mode font 'tmpxsUi4X.otf' Revision 0.000
+        
+        --------------------
+        Hinting font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpxsUi4X.otf. Start time: Sun Jan  3 20:35:37 2016.
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        ..
+        Saving font file with new hints...Sun Jan  3 20:35:39 2016
+        Done with font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpxsUi4X.otf. End time: Sun Jan  3 20:35:39 2016.
+        
+
+Build TTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/Thin/Benzinova-Thin.ttf
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/tmp3CDUeT.ttf' to temporary Unix Type1 font file '/tmp3CDUeT.ttf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f tmp3CDUeT.ttf.tmp -o tmp3CDUeT.ttf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [WARNING] <Benzinova-Thin> [internal] Feature block seen before any language system statement.  You should place languagesystem statements before any feature definition [features 3]
+        makeotfexe [WARNING] <Benzinova-Thin> Major version number not in range 1 .. 255 [features 53]
+        makeotfexe [NOTE] Wrote new font file 'tmp3CDUeT.ttf'.
+        
+        
+        Built release mode font 'tmp3CDUeT.ttf' Revision 0.000
+        
+        --------------------
+
+Build WOFF (OTF)
+''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/Thin/Benzinova-Thin.woff
+
+Build WOFF2 (OTF)
+'''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/Thin/Benzinova-Thin.woff2
+
+Build EOT
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/Thin/Benzinova-Thin.eot
+
+Build SVG
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/Thin/Benzinova-Thin.svg
+
+
+Benzinova-Thin-ExtraCondensed.ufo
+---------------------------------
+source: /Users/joern/Documents/Fonts/Benzinova-Font/ufo/100-Thin/Benzinova-Thin-ExtraCondensed.ufo
+
+Build OTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtraCondensed/Benzinova-Thin-ExtraCondensed.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        parts Report
+        
+        [Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2015 by Jorn Lund. All rights reserved.'
+        
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f font.otf.tmp -o tmpsbXLrR.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [NOTE] Wrote new font file 'tmpsbXLrR.otf'.
+        
+        
+        Built release mode font 'tmpsbXLrR.otf' Revision 1.000
+        
+        --------------------
+        Hinting font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpsbXLrR.otf. Start time: Sun Jan  3 20:35:46 2016.
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        ...
+        Saving font file with new hints...Sun Jan  3 20:35:48 2016
+        Done with font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpsbXLrR.otf. End time: Sun Jan  3 20:35:48 2016.
+        
+
+Build TTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtraCondensed/Benzinova-Thin-ExtraCondensed.ttf
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/tmpo0yH9K.ttf' to temporary Unix Type1 font file '/tmpo0yH9K.ttf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f tmpo0yH9K.ttf.tmp -o tmpo0yH9K.ttf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [NOTE] Wrote new font file 'tmpo0yH9K.ttf'.
+        
+        
+        Built release mode font 'tmpo0yH9K.ttf' Revision 1.000
+        
+        --------------------
+
+Build WOFF (OTF)
+''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtraCondensed/Benzinova-Thin-ExtraCondensed.woff
+
+Build WOFF2 (OTF)
+'''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtraCondensed/Benzinova-Thin-ExtraCondensed.woff2
+
+Build EOT
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtraCondensed/Benzinova-Thin-ExtraCondensed.eot
+
+Build SVG
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtraCondensed/Benzinova-Thin-ExtraCondensed.svg
+
+
+Benzinova-Thin-Extended.ufo
+---------------------------
+source: /Users/joern/Documents/Fonts/Benzinova-Font/ufo/100-Thin/Benzinova-Thin-Extended.ufo
+
+Build OTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtended/Benzinova-Thin-Extended.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        parts Report
+        
+        [Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2015 by Jorn Lund. All rights reserved.'
+        
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f font.otf.tmp -o tmpEYxv8p.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [NOTE] Wrote new font file 'tmpEYxv8p.otf'.
+        
+        
+        Built release mode font 'tmpEYxv8p.otf' Revision 1.000
+        
+        --------------------
+        Hinting font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpEYxv8p.otf. Start time: Sun Jan  3 20:35:58 2016.
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        ..
+        Saving font file with new hints...Sun Jan  3 20:36:00 2016
+        Done with font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpEYxv8p.otf. End time: Sun Jan  3 20:36:00 2016.
+        
+
+Build TTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtended/Benzinova-Thin-Extended.ttf
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/tmp5D2PpL.ttf' to temporary Unix Type1 font file '/tmp5D2PpL.ttf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f tmp5D2PpL.ttf.tmp -o tmp5D2PpL.ttf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [NOTE] Wrote new font file 'tmp5D2PpL.ttf'.
+        
+        
+        Built release mode font 'tmp5D2PpL.ttf' Revision 1.000
+        
+        --------------------
+
+Build WOFF (OTF)
+''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtended/Benzinova-Thin-Extended.woff
+
+Build WOFF2 (OTF)
+'''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtended/Benzinova-Thin-Extended.woff2
+
+Build EOT
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtended/Benzinova-Thin-Extended.eot
+
+Build SVG
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinExtended/Benzinova-Thin-Extended.svg
+
+
+Benzinova-Thin-Condensed.ufo
+----------------------------
+source: /Users/joern/Documents/Fonts/Benzinova-Font/ufo/100-Thin/Benzinova-Thin-Condensed.ufo
+
+Build OTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinCondensed/Benzinova-Thin-Condensed.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        parts Report
+        
+        [Warning] The copyright was normalized for storage in the CFF table and consequently some characters were dropped: 'Copyright c 2015 by Jorn Lund. All rights reserved.'
+        
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/font.otf' to temporary Unix Type1 font file '/font.otf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f font.otf.tmp -o tmpMmFsgr.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [WARNING] <Benzinova-ThinCondensed> [internal] Feature block seen before any language system statement.  You should place languagesystem statements before any feature definition [features 3]
+        makeotfexe [NOTE] Wrote new font file 'tmpMmFsgr.otf'.
+        
+        
+        Built release mode font 'tmpMmFsgr.otf' Revision 1.000
+        
+        --------------------
+        Hinting font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpMmFsgr.otf. Start time: Sun Jan  3 20:36:08 2016.
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        .........................................
+        ..
+        Saving font file with new hints...Sun Jan  3 20:36:10 2016
+        Done with font /var/folders/kk/bf9b7yxd6vb_mskywbr94bt40000gn/T/tmpMmFsgr.otf. End time: Sun Jan  3 20:36:10 2016.
+        
+
+Build TTF
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinCondensed/Benzinova-Thin-Condensed.ttf
+    Source is a UFO file. Generate TTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] Converting source font '/tmpPhcewr.ttf' to temporary Unix Type1 font file '/tmpPhcewr.ttf.tmp'.
+        makeotf [Note] setting the DONT_USE_WIN_LINE_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotf [Note] Writing options file /current.fpr
+        makeotf [Note] Running makeotfexe with commands:
+           cd ""
+           makeotfexe -f tmpPhcewr.ttf.tmp -o tmpPhcewr.ttf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+        makeotfexe [WARNING] <Benzinova-ThinCondensed> [internal] Feature block seen before any language system statement.  You should place languagesystem statements before any feature definition [features 3]
+        makeotfexe [NOTE] Wrote new font file 'tmpPhcewr.ttf'.
+        
+        
+        Built release mode font 'tmpPhcewr.ttf' Revision 1.000
+        
+        --------------------
+
+Build WOFF (OTF)
+''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinCondensed/Benzinova-Thin-Condensed.woff
+
+Build WOFF2 (OTF)
+'''''''''''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinCondensed/Benzinova-Thin-Condensed.woff2
+
+Build EOT
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinCondensed/Benzinova-Thin-Condensed.eot
+
+Build SVG
+'''''''''
+    path: /Users/joern/Documents/Fonts/Benzinova-Font/generate/webfont/Benzinova/ThinCondensed/Benzinova-Thin-Condensed.svg
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14

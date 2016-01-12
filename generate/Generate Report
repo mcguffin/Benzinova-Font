@@ -2,14 +2,14 @@ Batch Generate Files:
 *********************
 Remove Overlap:
 ***************
-Benzinova Thin Extended
-Benzinova Thin ExtraCondensed
 Benzinova Thin
+Benzinova Thin ExtraCondensed
+Benzinova Thin Extended
 Benzinova Thin Condensed
 
 Generate:
 *********
-Benzinova Thin Extended to /Users/joern/Documents/Fonts/Benzinova-Font/generate/otf/Benzinova-ThinExtended.otf
+Benzinova Thin to /Users/joern/Documents/Fonts/Benzinova-Font/generate/otf/Benzinova-Thin.otf
 --------------------
 
 parts Report
@@ -19,7 +19,29 @@ parts Report
 
 autohint Report
 
-Hinting font /font.otf. Start time: Sat Jan  2 16:34:17 2016.
+Versions:
+    tx        1.0.57
+    absfont   1.0.47
+    ctutil    2.0.1
+    dynarr    2.0.3
+    sfntread  1.0.5
+    t2cstr    1.0.15
+    cffread   2.0.45
+    cffwrite  1.0.39
+    sfntwrite 1.0.6
+    pstoken   2.0.9
+    t1cstr    1.0.14
+    t1read    1.0.40
+    ttread    1.0.19
+    cfembed   2.0.25
+    pdfwrite  1.0.5
+    svread    1.0.6
+    t1write   1.0.31
+    svwrite   1.1.9
+    uforead   1.0.5
+    ufwrite   1.0.0
+
+Hinting font /font.otf. Start time: Sun Jan  3 20:35:07 2016.
 .........................................
 .........................................
 .........................................
@@ -33,8 +55,8 @@ Hinting font /font.otf. Start time: Sat Jan  2 16:34:17 2016.
 .........................................
 .........................................
 ..
-Saving font file with new hints...Sat Jan  2 16:34:19 2016
-Done with font /font.otf. End time: Sat Jan  2 16:34:19 2016.
+Saving font file with new hints...Sun Jan  3 20:35:09 2016
+Done with font /font.otf. End time: Sun Jan  3 20:35:09 2016.
 
 
 makeotf Report
@@ -46,11 +68,13 @@ makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
 makeotf [Note] Writing options file /current.fpr
 makeotf [Note] Running makeotfexe with commands:
    cd ""
-   makeotfexe -f font.otf.tmp -o Benzinova-ThinExtended.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
-makeotfexe [NOTE] Wrote new font file 'Benzinova-ThinExtended.otf'.
+   makeotfexe -f font.otf.tmp -o Benzinova-Thin.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+makeotfexe [WARNING] <Benzinova-Thin> [internal] Feature block seen before any language system statement.  You should place languagesystem statements before any feature definition [features 3]
+makeotfexe [WARNING] <Benzinova-Thin> Major version number not in range 1 .. 255 [features 53]
+makeotfexe [NOTE] Wrote new font file 'Benzinova-Thin.otf'.
 
 
-Built release mode font 'Benzinova-ThinExtended.otf' Revision 1.000
+Built release mode font 'Benzinova-Thin.otf' Revision 0.000
 
 --------------------
 Benzinova Thin ExtraCondensed to /Users/joern/Documents/Fonts/Benzinova-Font/generate/otf/Benzinova-ThinExtraCondensed.otf
@@ -63,7 +87,7 @@ parts Report
 
 autohint Report
 
-Hinting font /font.otf. Start time: Sat Jan  2 16:34:20 2016.
+Hinting font /font.otf. Start time: Sun Jan  3 20:35:10 2016.
 .........................................
 .........................................
 .........................................
@@ -77,8 +101,8 @@ Hinting font /font.otf. Start time: Sat Jan  2 16:34:20 2016.
 .........................................
 .........................................
 ...
-Saving font file with new hints...Sat Jan  2 16:34:22 2016
-Done with font /font.otf. End time: Sat Jan  2 16:34:22 2016.
+Saving font file with new hints...Sun Jan  3 20:35:12 2016
+Done with font /font.otf. End time: Sun Jan  3 20:35:12 2016.
 
 
 makeotf Report
@@ -97,7 +121,7 @@ makeotfexe [NOTE] Wrote new font file 'Benzinova-ThinExtraCondensed.otf'.
 Built release mode font 'Benzinova-ThinExtraCondensed.otf' Revision 1.000
 
 --------------------
-Benzinova Thin to /Users/joern/Documents/Fonts/Benzinova-Font/generate/otf/Benzinova-Thin.otf
+Benzinova Thin Extended to /Users/joern/Documents/Fonts/Benzinova-Font/generate/otf/Benzinova-ThinExtended.otf
 --------------------
 
 parts Report
@@ -107,7 +131,7 @@ parts Report
 
 autohint Report
 
-Hinting font /font.otf. Start time: Sat Jan  2 16:34:23 2016.
+Hinting font /font.otf. Start time: Sun Jan  3 20:35:13 2016.
 .........................................
 .........................................
 .........................................
@@ -119,9 +143,10 @@ Hinting font /font.otf. Start time: Sat Jan  2 16:34:23 2016.
 .........................................
 .........................................
 .........................................
-........................................
-Saving font file with new hints...Sat Jan  2 16:34:25 2016
-Done with font /font.otf. End time: Sat Jan  2 16:34:25 2016.
+.........................................
+..
+Saving font file with new hints...Sun Jan  3 20:35:15 2016
+Done with font /font.otf. End time: Sun Jan  3 20:35:15 2016.
 
 
 makeotf Report
@@ -133,12 +158,11 @@ makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
 makeotf [Note] Writing options file /current.fpr
 makeotf [Note] Running makeotfexe with commands:
    cd ""
-   makeotfexe -f font.otf.tmp -o Benzinova-Thin.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
-makeotfexe [WARNING] <Benzinova-Thin> [internal] Feature block seen before any language system statement.  You should place languagesystem statements before any feature definition [features 3]
-makeotfexe [NOTE] Wrote new font file 'Benzinova-Thin.otf'.
+   makeotfexe -f font.otf.tmp -o Benzinova-ThinExtended.otf -ff features -gf glyphOrder -mf menuname -r -osv 4 -osbOn 8
+makeotfexe [NOTE] Wrote new font file 'Benzinova-ThinExtended.otf'.
 
 
-Built release mode font 'Benzinova-Thin.otf' Revision 1.000
+Built release mode font 'Benzinova-ThinExtended.otf' Revision 1.000
 
 --------------------
 Benzinova Thin Condensed to /Users/joern/Documents/Fonts/Benzinova-Font/generate/otf/Benzinova-ThinCondensed.otf
@@ -151,7 +175,7 @@ parts Report
 
 autohint Report
 
-Hinting font /font.otf. Start time: Sat Jan  2 16:34:26 2016.
+Hinting font /font.otf. Start time: Sun Jan  3 20:35:16 2016.
 .........................................
 .........................................
 .........................................
@@ -163,9 +187,10 @@ Hinting font /font.otf. Start time: Sat Jan  2 16:34:26 2016.
 .........................................
 .........................................
 .........................................
-........................................
-Saving font file with new hints...Sat Jan  2 16:34:28 2016
-Done with font /font.otf. End time: Sat Jan  2 16:34:28 2016.
+.........................................
+..
+Saving font file with new hints...Sun Jan  3 20:35:18 2016
+Done with font /font.otf. End time: Sun Jan  3 20:35:18 2016.
 
 
 makeotf Report

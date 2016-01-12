@@ -47,3 +47,13 @@ To Do:
     | Black (900)        | -              | ?         |           | must draw   |
 
 
+
+UltraCondensed	(100)
+ExtraCondensed	(200) *
+Condensed 		(300) *
+Semi-Condensed	(400)
+Medium			(500) *
+SemiExpanded	(600)
+Expanded		(700) *
+ExtraExpanded	(800)
+UltraExpanded	(900)
