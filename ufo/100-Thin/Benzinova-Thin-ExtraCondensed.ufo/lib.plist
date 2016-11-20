@@ -34,7 +34,7 @@
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
@@ -294,6 +294,14 @@
 		<string>scaffold</string>
 		<string>stock</string>
 	</array>
+	<key>com.typemytype.robofont.scaffold.layerShowCoordinates</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerShowFill</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerShowPoints</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerShowStroke</key>
+	<true/>
 	<key>com.typemytype.robofont.scaffold.layerStrokeColor</key>
 	<array>
 		<real>1.0</real>
