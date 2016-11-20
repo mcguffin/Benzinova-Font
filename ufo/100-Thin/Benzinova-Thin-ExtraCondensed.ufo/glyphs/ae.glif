@@ -110,7 +110,7 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Scaffold</key>
+        <key>scaffold</key>
         <dict>
           <key>anchors</key>
           <array>

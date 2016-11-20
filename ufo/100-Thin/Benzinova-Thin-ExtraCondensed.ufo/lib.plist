@@ -291,8 +291,15 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>Scaffold</string>
+		<string>scaffold</string>
 		<string>stock</string>
+	</array>
+	<key>com.typemytype.robofont.scaffold.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -811,11 +818,11 @@
 	<key>com.typemytype.robofont.stock.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.stock.layerShowFill</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.stock.layerShowPoints</key>
 	<false/>
 	<key>com.typemytype.robofont.stock.layerShowStroke</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.stock.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>

@@ -14,9 +14,9 @@
 	<true/>
 	<key>com.typemytype.robofont.Scaffold.layerStrokeColor</key>
 	<array>
+		<real>0.0023</real>
+		<real>0.4939</real>
 		<real>1.0</real>
-		<real>0.75</real>
-		<real>0.0</real>
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
@@ -40,9 +40,9 @@
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowPoints</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowStroke</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
 	<array>
 		<real>0.5</real>
@@ -291,8 +291,23 @@
 	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
-		<string>Scaffold</string>
+		<string>scaffold</string>
 		<string>stock</string>
+	</array>
+	<key>com.typemytype.robofont.scaffold.layerShowCoordinates</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerShowFill</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerShowPoints</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerShowStroke</key>
+	<false/>
+	<key>com.typemytype.robofont.scaffold.layerStrokeColor</key>
+	<array>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.0</real>
+		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>

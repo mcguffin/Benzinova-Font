@@ -34,7 +34,7 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Scaffold</key>
+        <key>scaffold</key>
         <dict>
           <key>anchors</key>
           <array>
@@ -111,28 +111,6 @@
                 </dict>
               </array>
             </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>asciitilde</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>616.0</real>
-        </dict>
-        <key>stock</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
           </array>
           <key>lib</key>
           <dict>
