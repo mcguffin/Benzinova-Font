@@ -215,11 +215,11 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <true/>
                   <key>x</key>
                   <integer>200</integer>
                   <key>y</key>
-                  <integer>600</integer>
+                  <integer>601</integer>
                 </dict>
               </array>
             </dict>
