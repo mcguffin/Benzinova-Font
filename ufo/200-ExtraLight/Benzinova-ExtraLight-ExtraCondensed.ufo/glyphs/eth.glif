@@ -20,7 +20,6 @@
       <point x="564" y="1134" type="curve" smooth="yes"/>
     </contour>
     <component base="partialdiff"/>
-    <component base="partialdiff"/>
   </outline>
   <lib>
     <dict>
