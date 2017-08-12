@@ -4,10 +4,10 @@ Benzinova Font Family
 The Benzinova font family is a work in progress.
 In the future the Benzinova is supposed to cover all font weights from 
 100 (Thin) to 900 (Black). The aim is to achieve reliable numeric relationships between 
-the font weights, having the Black weight being 9 times thicker than the Thin one.
+the font weights, having the Black weight being exactly 9 times thicker than the Thin one.
 
 The font editor is [RoboFont](http://robofont.com/). 
-Different widths will be achieved using [Interpoltion Matrix](https://github.com/loicsander/Robofont-scripts/tree/master/Interpolation%20Matrix) by Loïc Sander
+Different widths and weights will be achieved using [Interpoltion Matrix](https://github.com/loicsander/Robofont-scripts/tree/master/Interpolation%20Matrix) by Loïc Sander
 
 Charcters
 ---------
@@ -34,17 +34,17 @@ To Do:
 - [ ] Expanded Extra-Light
 - [ ] Expanded Black
 
-    | Weight/Width       | ExtraCondensed | Condensed | Normal    | Expanded    |
-    |--------------------|----------------|-----------|-----------|-------------|
-    | Thin (100)         | Done           | generated | generated | Done        |
-    | Extra-Light (200)  | must draw      |           |           | must draw   |
-    | Light (300)        |                |           |           |             |
-    | Regular (400)      |                |           |           |             |
-    | Medium (500)       |                |           |           |             |
-    | Semi-Bold (600)    | must draw      |           |           |             |
-    | Bold (700)         | -              |           |           |             |
-    | Heavy (800)        | -              |           |           |             |
-    | Black (900)        | -              | ?         |           | must draw   |
+    | Weight/Width | Weight | ExtraCondensed (200) | Condensed (300) | Medium (500) | Expanded (700) |
+    |--------------|--------|----------------------|-----------------|--------------|----------------|
+    | Thin         | 100    | Done                 | generated       | generated    | Done           |
+    | Extra-Light  | 150    | in progress          |                 |              | must draw      |
+    | Light        | 300    |                      |                 |              |                |
+    | Regular      | 400    |                      |                 |              |                |
+    | Medium       | 500    |                      |                 |              |                |
+    | Semi-Bold    | 600    | must draw            |                 |              |                |
+    | Bold         | 700    | -                    |                 |              |                |
+    | Heavy        | 800    | -                    |                 |              |                |
+    | Black        | 900    | -                    | ?               |              | must draw      |
 
 
 
